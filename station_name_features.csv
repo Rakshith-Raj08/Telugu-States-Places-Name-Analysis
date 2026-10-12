@@ -1,0 +1,694 @@
+state,code,name,zone,address,st_nm,district,root,family,is_tg,name_score_TG,prob_own_state,misfit,km_to_state_line,lon,lat
+Andhra Pradesh,NZB,NIZAMABAD,SCR,"Nizamabad, Andhra Pradesh",Telangana,Nizamabad,nizamabad,-abad,1,0.747,0.747,False,260.5,78.10324,18.67916
+,PVD,PEDDAVADIAPUDI,,,Andhra Pradesh,Guntur,peddavadiapudi,-pudi,0,0.174,0.826,False,38.9,80.61264,16.41421
+,YLM,ELLAMANCHILI,,,Andhra Pradesh,Visakhapatnam,ellamanchili,other,0,0.289,0.711,False,162.5,82.85262,17.55365
+Andhra Pradesh,LKPL,LAKDIKAPUL,SCR,"Hyderabad, Andhra Pradesh",Telangana,Hyderabad,lakdikapul,other,1,0.288,0.288,False,124.0,78.46353,17.40405
+Andhra Pradesh,PCU,PUTLACHERUVU,SCR,"Putlacheruvu, Andhra Pradesh",Andhra Pradesh,Krishna,putlacheruvu,-cheruvu,0,0.125,0.875,False,65.1,81.1124,16.48482
+Andhra Pradesh,GPJ,Gorapur,ECoR,"Jeypore Rd, Andhra Pradesh",Andhra Pradesh,Visakhapatnam,gorapur,-pur,0,0.633,0.367,False,185.8,82.79406,18.34694
+,KLX,KOLAKALUR,,,Andhra Pradesh,Guntur,kolakalur,-ur,0,0.298,0.702,False,52.1,80.62752,16.29519
+,CLVR,CHILUVUR,,,Andhra Pradesh,Guntur,chiluvur,-ur,0,0.3,0.7,False,42.8,80.61691,16.37956
+,KVR,KOVVUR,,,Andhra Pradesh,West Godavari,kovvur,-ur,0,0.294,0.706,False,58.4,81.7265,17.00708
+,GVN,GODAVARI,,,Andhra Pradesh,East Godavari,godavari,other,0,0.289,0.711,False,62.2,81.77083,17.00771
+Andhra Pradesh,BNL,BEVINAHALU,SCR,"Rayalaseema Region, Andhra Pradesh",Andhra Pradesh,Kurnool,bevinahalu,other,0,0.289,0.711,False,89.4,77.21299,15.16697
+,TEL,TENALI JN,,,Andhra Pradesh,Guntur,tenali,other,0,0.289,0.711,False,58.0,80.64041,16.24241
+Andhra Pradesh,TAT,Tummanamgutta,SCR,"Chennai - Anantpur Rd, Andhra Pradesh",Andhra Pradesh,Chittoor,tummanamgutta,other,0,0.291,0.709,False,236.6,78.37926,13.70741
+,CU,CHAGALLU,,,Andhra Pradesh,West Godavari,chagallu,other,0,0.289,0.711,False,58.3,81.69056,16.96508
+,PSDA,PASIVEDALA,,,Andhra Pradesh,West Godavari,pasivedala,other,0,0.288,0.712,False,57.1,81.70094,16.99331
+,KMPT,KOMATIPALLI,,,Telangana,Warangal Urban,komatipalli,-palli,1,0.575,0.575,False,128.1,79.51589,18.02355
+,HSP,HASANPARTHI RD,,,Telangana,Warangal Urban,hasanparthi,other,1,0.289,0.289,False,134.1,79.50185,18.07826
+,VRU,VALIVERU,,,Andhra Pradesh,Guntur,valiveru,other,0,0.289,0.711,False,63.4,80.60546,16.18893
+,MRPL,MARAMPALLI,,,Andhra Pradesh,West Godavari,marampalli,-palli,0,0.592,0.408,False,64.1,81.63387,16.84392
+,NDD,NIDADAVOLU JN,,,Andhra Pradesh,West Godavari,nidadavolu,other,0,0.289,0.711,False,62.3,81.6755,16.8983
+Andhra Pradesh,CMDP,Chimidipalli,ECoR,"Borra, Andhra Pradesh",Andhra Pradesh,Visakhapatnam,chimidipalli,-palli,0,0.592,0.408,False,206.9,83.07686,18.26276
+,MDKU,MODUKURU,,,Andhra Pradesh,Guntur,modukuru,other,0,0.288,0.712,False,70.4,80.58381,16.12499
+,TSR,TSUNDURU,,,Andhra Pradesh,Guntur,tsunduru,other,0,0.29,0.71,False,66.8,80.58649,16.1575
+,NBM,NAVABPALEM,,,Andhra Pradesh,West Godavari,navabpalem,-palem,0,0.182,0.818,False,63.1,81.6067,16.83161
+Andhra Pradesh,DYE,DAYANAND NAGAR,SCR,"Secunderabad, Andhra Pradesh",Telangana,Medchal Malkajgiri,dayanand nagar,-nagar,1,0.723,0.723,False,123.7,78.53135,17.45625
+Andhra Pradesh,DBV,DABILPUR,SCR,"Rangareddy, Andhra Pradesh",Telangana,Medchal Malkajgiri,dabilpur,-pur,1,0.579,0.579,False,146.7,78.47032,17.67423
+Andhra Pradesh,RLG,RELANGI,SCR,"Relangi, Andhra Pradesh",Andhra Pradesh,West Godavari,relangi,other,0,0.289,0.711,False,75.5,81.64411,16.70992
+,NDO,NIDUBROLU,,,Andhra Pradesh,Guntur,nidubrolu,other,0,0.29,0.71,False,76.6,80.55724,16.0679
+,TDD,TADEPALLIGUDEM,,,Andhra Pradesh,West Godavari,tadepalligudem,other,0,0.289,0.711,False,59.1,81.52631,16.80996
+,PTPU,PRATTIAPADU,,,Andhra Pradesh,West Godavari,prattiapadu,-padu,0,0.092,0.908,False,62.0,81.58143,16.82086
+,BPP,BAPATLA,,,Andhra Pradesh,Guntur,bapatla,other,0,0.291,0.709,False,94.6,80.46842,15.90861
+,APL,APPIKATLA,,,Andhra Pradesh,Guntur,appikatla,other,0,0.289,0.711,False,87.5,80.51447,15.97037
+,MCVM,MACHAVARAM,,,Andhra Pradesh,Guntur,machavaram,-varam,0,0.214,0.786,False,81.3,80.54154,16.02534
+,CEL,CHEBROL,,,Andhra Pradesh,West Godavari,chebrol,other,0,0.29,0.71,False,50.7,81.39653,16.81995
+,BPY,BADAMPUDI,,,Andhra Pradesh,West Godavari,badampudi,-pudi,0,0.179,0.821,False,54.2,81.47375,16.8281
+,PUA,PULLA,,,Andhra Pradesh,West Godavari,pulla,other,0,0.288,0.712,False,48.7,81.32485,16.80991
+,KKRM,KAIKORAM,,,Andhra Pradesh,West Godavari,kaikoram,other,0,0.289,0.711,False,49.7,81.36422,16.81534
+Andhra Pradesh,GVA,Ganguwada,ECoR,"Ganguwada, Andhra Pradesh",Andhra Pradesh,Srikakulam,ganguwada,-vada/wada,0,0.21,0.79,False,322.6,84.10722,18.66764
+Andhra Pradesh,IDP,INDUPALLI,SCR,"Krishna, Andhra Pradesh",Andhra Pradesh,Krishna,indupalli,-palli,0,0.596,0.404,False,45.3,80.87707,16.47909
+,STPT,SITAMPET,,,Andhra Pradesh,West Godavari,sitampet,-pet(a),0,0.428,0.572,False,46.1,81.21121,16.79741
+,BMD,BHIMADOLU,,,Andhra Pradesh,West Godavari,bhimadolu,other,0,0.289,0.711,False,47.1,81.2611,16.80848
+Andhra Pradesh,KBA,Kurabalakota,SCR,"Kurabalakota Railway Station, Andhra Pradesh",Andhra Pradesh,Chittoor,kurabalakota,other,0,0.287,0.713,False,242.8,78.48584,13.66628
+,SPF,STUARTPURAM,,,Andhra Pradesh,Guntur,stuartpuram,-puram,0,0.194,0.806,False,97.0,80.40691,15.868
+,EE,ELURU,,,Andhra Pradesh,West Godavari,eluru,other,0,0.289,0.711,False,45.6,81.11976,16.71782
+,DEL,DENDULURU,,,Andhra Pradesh,West Godavari,denduluru,other,0,0.29,0.71,False,44.9,81.18047,16.78141
+Andhra Pradesh,KQD,KHAIRATABAD DCN,SCR,"Hyderabad, Andhra Pradesh",Telangana,Hyderabad,khairatabad dcn,other,1,0.29,0.29,False,125.0,78.46165,17.41422
+Andhra Pradesh,KOHR,Kohir Deccan,SCR,"Telangana Region, Andhra Pradesh",Telangana,Sangareddy,kohir deccan,other,1,0.289,0.289,False,183.2,77.71198,17.60889
+,IPPM,IPURUPALEM,,,Andhra Pradesh,Prakasam,ipurupalem,-palem,0,0.187,0.813,False,97.4,80.38512,15.85191
+,NZD,NUZVID,,,Andhra Pradesh,Krishna,nuzvid,other,0,0.289,0.711,False,43.3,80.96153,16.64993
+,VAT,VATLUR,,,Andhra Pradesh,West Godavari,vatlur,-ur,0,0.299,0.701,False,43.2,81.04447,16.69451
+Andhra Pradesh,LKDU,Lankalakoderu,SCR,"Lankala Koderu, Andhra Pradesh",Andhra Pradesh,West Godavari,lankalakoderu,other,0,0.289,0.711,False,93.0,81.68124,16.53452
+,JAQ,JANDRAPETA,,,Andhra Pradesh,Prakasam,jandrapeta,-pet(a),0,0.428,0.572,False,99.2,80.33368,15.80952
+,CLX,CHIRALA,,,Andhra Pradesh,Prakasam,chirala,other,0,0.289,0.711,False,98.0,80.3536,15.83076
+,VRVL,VIRAVALLI,,,Andhra Pradesh,Krishna,viravalli,other,0,0.289,0.711,False,39.8,80.9122,16.61595
+Andhra Pradesh,NCU,Nallacheruvu,SCR,"Chennai - Anantpur Rd, Andhra Pradesh",Andhra Pradesh,Anantapur,nallacheruvu,-cheruvu,0,0.126,0.874,False,200.2,78.17773,14.02056
+Andhra Pradesh,MLMG,MALLEMADUGU,SCR,"Khammam, Andhra Pradesh",Telangana,Khammam,mallemadugu,other,1,0.289,0.289,False,33.4,80.16059,17.32514
+Andhra Pradesh,MGB,Mudigubba,SCR,"Mudigubba, Andhra Pradesh",Andhra Pradesh,Anantapur,mudigubba,other,0,0.289,0.711,False,164.0,77.995,14.34993
+,TOU,TELAPROLU,,,Andhra Pradesh,Krishna,telaprolu,other,0,0.29,0.71,False,38.6,80.89056,16.59882
+Andhra Pradesh,MDVL,MANDAVALLI,SCR,"Mandavalli, Andhra Pradesh",Andhra Pradesh,Krishna,mandavalli,other,0,0.289,0.711,False,66.0,81.16074,16.51881
+Andhra Pradesh,NDM,NIDAMANURU,SCR,"Vijayawada, Andhra Pradesh",Andhra Pradesh,Krishna,nidamanuru,other,0,0.29,0.71,False,33.2,80.73055,16.50724
+Andhra Pradesh,MTV,Matalkunta,SCR,"Telangana Region, Andhra Pradesh",Telangana,Sangareddy,matalkunta,other,1,0.287,0.287,False,200.3,77.56294,17.76829
+Andhra Pradesh,MTM,Machilipatnam,SCR,"Machilipatnam, Andhra Pradesh",Andhra Pradesh,Krishna,machilipatnam,other,0,0.288,0.712,False,88.7,81.13776,16.17126
+Andhra Pradesh,PAGM,Pennada Agraharam,SCR,"West Godavari, Andhra Pradesh",Andhra Pradesh,West Godavari,pennada agraharam,other,0,0.291,0.709,False,86.6,81.57765,16.5413
+,UGD,UPPUGUNDURU,,,Andhra Pradesh,Prakasam,uppugunduru,other,0,0.29,0.71,False,111.0,80.19446,15.65067
+,CJM,CHINNA GANJAM,,,Andhra Pradesh,Prakasam,chinna ganjam,other,0,0.289,0.711,False,108.0,80.23677,15.6895
+,KVDU,KADAVAKUDURU,,,Andhra Pradesh,Prakasam,kadavakuduru,other,0,0.288,0.712,False,105.2,80.2573,15.72254
+Andhra Pradesh,OBM,Obalapuram,SWR,"Bellary-Hiriyur Rd, Andhra Pradesh",Andhra Pradesh,Anantapur,obalapuram,-puram,0,0.194,0.806,False,123.8,76.83642,15.0098
+Andhra Pradesh,PDL,PENDEKALLU,SCR,"Kurnool, Andhra Pradesh",Andhra Pradesh,Kurnool,pendekallu,other,0,0.289,0.711,False,55.9,77.64736,15.37451
+,RPRL,RAPARLA HALT,,,Andhra Pradesh,Prakasam,raparla,other,0,0.29,0.71,False,113.7,80.16912,15.61924
+,KPLL,KOTTA PANDILA PALLI,,,Andhra Pradesh,Prakasam,kotta pandila palli,-palli,0,0.59,0.41,False,102.0,80.28195,15.76141
+,VTM,VETAPALEMU,,,Andhra Pradesh,Prakasam,vetapalemu,other,0,0.29,0.71,False,100.5,80.30065,15.78338
+,GDPT,GUDAPARTI,,,Andhra Pradesh,East Godavari,gudaparti,other,0,0.29,0.71,False,95.4,82.13114,17.02817
+,SLO,SAMALKOT JN,,,Andhra Pradesh,East Godavari,samalkot,other,0,0.289,0.711,False,98.4,82.16872,17.04483
+,PAP,PITHAPURAM,,,Andhra Pradesh,East Godavari,pithapuram,-puram,0,0.187,0.813,False,104.7,82.25751,17.11087
+Andhra Pradesh,PGP,Panduranga Pura,SCR,"Manuguru, Andhra Pradesh",Telangana,Bhadradri Kothagudem,panduranga pura,other,1,0.289,0.289,False,12.9,80.76459,17.71824
+,GLP,GOLLAPROLU,,,Andhra Pradesh,East Godavari,gollaprolu,other,0,0.289,0.711,False,106.8,82.29082,17.15166
+,MVRM,MALLAVARAM,,,Andhra Pradesh,East Godavari,mallavaram,-varam,0,0.213,0.787,False,108.5,82.31529,17.18103
+,DGDG,DURGADA GATE,,,Andhra Pradesh,East Godavari,durgada,other,0,0.288,0.712,False,111.2,82.34899,17.21248
+,RVD,RAVIKAMPADU,,,Andhra Pradesh,East Godavari,ravikampadu,-padu,0,0.095,0.905,False,112.8,82.36815,17.23024
+,ANV,ANNAVARAM,,,Andhra Pradesh,East Godavari,annavaram,-varam,0,0.22,0.78,False,117.5,82.41968,17.26963
+,TMPM,TIMMAPURAM,,,Andhra Pradesh,East Godavari,timmapuram,-puram,0,0.187,0.813,False,120.4,82.45041,17.28894
+Andhra Pradesh,RRJ,RAMARAJU PALLI,SCR,"Rayalaseema Region, Andhra Pradesh",Andhra Pradesh,Anantapur,ramaraju palli,-palli,0,0.583,0.417,False,92.5,77.61737,15.04195
+Andhra Pradesh,RMV,RAMAVARAPPADU,SCR,"Vijayawada, Andhra Pradesh",Andhra Pradesh,Krishna,ramavarappadu,-padu,0,0.094,0.906,False,28.9,80.67971,16.5262
+,RJY,RAJAMUNDRY,,,Andhra Pradesh,East Godavari,rajamundry,other,0,0.289,0.711,False,64.7,81.7839,16.98416
+Andhra Pradesh,RLX,Ramanujampalli,SCR,"Ramanujampalli Station, Andhra Pradesh",Andhra Pradesh,Anantapur,ramanujampalli,-palli,0,0.591,0.409,False,155.4,77.87191,14.44053
+,KSVM,KESAVARAM,,,Andhra Pradesh,East Godavari,kesavaram,-varam,0,0.223,0.777,False,76.4,81.87986,16.93099
+,DWP,DWARAPUDI,,,Andhra Pradesh,East Godavari,dwarapudi,-pudi,0,0.176,0.824,False,80.3,81.92266,16.92756
+,APT,ANAPARTI,,,Andhra Pradesh,East Godavari,anaparti,other,0,0.288,0.712,False,82.6,81.95318,16.93582
+,BVL,BIKKAVOLU,,,Andhra Pradesh,East Godavari,bikkavolu,other,0,0.291,0.709,False,88.1,82.03115,16.96932
+,PBD,PEDABRAMADVAM,,,Andhra Pradesh,East Godavari,pedabramadvam,other,0,0.29,0.71,False,91.8,82.07899,16.99082
+,MPU,MEDAPADU,,,Andhra Pradesh,East Godavari,medapadu,-padu,0,0.095,0.905,False,92.8,82.09613,17.00509
+,CRPM,CHANDRAMPALEM,,,Andhra Pradesh,East Godavari,chandrampalem,-palem,0,0.186,0.814,False,102.2,82.22311,17.08541
+,HVM,HAMSAVARAM,,,Andhra Pradesh,East Godavari,hamsavaram,-varam,0,0.22,0.78,False,123.8,82.48487,17.30995
+,TUNI,TUNI,,,Andhra Pradesh,East Godavari,tuni,other,0,0.289,0.711,False,129.4,82.54246,17.36108
+,GLU,GULLIPADU,,,Andhra Pradesh,Visakhapatnam,gullipadu,-padu,0,0.094,0.906,False,138.8,82.63345,17.4098
+,NRP,NARSIPATNAM RD,,,Andhra Pradesh,Visakhapatnam,narsipatnam,other,0,0.289,0.711,False,148.4,82.7246,17.45285
+,REG,REGUPALEM,,,Andhra Pradesh,Visakhapatnam,regupalem,-palem,0,0.182,0.818,False,155.5,82.79027,17.5052
+,BVM,BAYYAVARAM,,,Andhra Pradesh,Visakhapatnam,bayyavaram,-varam,0,0.218,0.782,False,172.0,82.93059,17.66015
+,KSK,KASIMKOTA,,,Andhra Pradesh,Visakhapatnam,kasimkota,other,0,0.29,0.71,False,175.7,82.96375,17.67331
+,AKP,ANAKAPALLE,,,Andhra Pradesh,Visakhapatnam,anakapalle,-palle,0,0.134,0.866,False,180.7,83.00885,17.6955
+,THY,THADI,,,Andhra Pradesh,Visakhapatnam,thadi,other,0,0.289,0.711,False,186.3,83.06429,17.68644
+,DVD,DUVVADA,,,Andhra Pradesh,Visakhapatnam,duvvada,-vada/wada,0,0.214,0.786,False,195.6,83.15206,17.70384
+,KRV,KARAVADI,,,Andhra Pradesh,Prakasam,karavadi,other,0,0.289,0.711,False,119.9,80.11316,15.55301
+,ANB,AMMANABROLU,,,Andhra Pradesh,Prakasam,ammanabrolu,other,0,0.29,0.71,False,115.8,80.14835,15.5964
+,KAQ,KOLANUKONDA,,,Andhra Pradesh,Guntur,kolanukonda,-konda,0,0.236,0.764,False,35.2,80.60478,16.44817
+,KCC,KRISHNA CANAL,,,Andhra Pradesh,Guntur,krishna canal,other,0,0.289,0.711,False,32.0,80.60455,16.47715
+Orissa,SPRM,Sitapuram Halt,ECoR,"Paralakhemundi, Orissa",Andhra Pradesh,Srikakulam,sitapuram,-puram,0,0.195,0.805,False,318.2,83.98285,18.81444
+Andhra Pradesh,SLPM,Shivalingapuram,ECoR,"Coastal Andhra Region, Andhra Pradesh",Andhra Pradesh,Visakhapatnam,shivalingapuram,-puram,0,0.196,0.804,False,202.7,83.06619,18.19666
+,BZA,VIJAYAWADA JN,,,Andhra Pradesh,Krishna,vijayawada,-vada/wada,0,0.197,0.803,False,27.8,80.61865,16.51826
+,GALA,GUNADALA,,,Andhra Pradesh,Krishna,gunadala,other,0,0.291,0.709,False,27.2,80.66791,16.53743
+,MBD,MUSTABADA,,,Andhra Pradesh,Krishna,mustabada,other,0,0.29,0.71,False,29.6,80.73177,16.54688
+,GWM,GANNAVARAM,,,Andhra Pradesh,Krishna,gannavaram,-varam,0,0.225,0.775,False,33.3,80.79572,16.55584
+,PAVP,PEDDA AVUTAPALE,,,Andhra Pradesh,Krishna,pedda avutapale,other,0,0.289,0.711,False,36.2,80.83943,16.56254
+,TNR,TANGUTURU,,,Andhra Pradesh,Prakasam,tanguturu,other,0,0.289,0.711,False,130.5,80.03355,15.33754
+,OGL,ONGOLE,,,Andhra Pradesh,Prakasam,ongole,other,0,0.29,0.71,False,119.8,80.0574,15.49806
+Andhra Pradesh,SMLG,Shimiliaguda,ECoR,"Way to Araku, Andhra Pradesh",Andhra Pradesh,Visakhapatnam,shimiliaguda,-guda,0,0.793,0.207,True,197.9,82.95711,18.30364
+Andhra Pradesh,SUP,Srungavarapukota,ECoR,"Srungavarapu kota, Andhra Pradesh",Andhra Pradesh,Vizianagaram,srungavarapukota,other,0,0.287,0.713,False,205.7,83.13253,18.11624
+Andhra Pradesh,TKU,Tanakallu,SCR,"Tanakallu, Andhra Pradesh",Andhra Pradesh,Anantapur,tanakallu,other,0,0.289,0.711,False,211.1,78.20122,13.92243
+,SKM,SINGARAYAKONDA,,,Andhra Pradesh,Prakasam,singarayakonda,-konda,0,0.235,0.765,False,137.2,80.02713,15.25312
+Andhra Pradesh,VLD,Vayalpad,SCR,"Vayalpadu, Andhra Pradesh",Andhra Pradesh,Chittoor,vayalpad,other,0,0.289,0.711,False,249.0,78.62497,13.63451
+Andhra Pradesh,CLE,CHINTALPALLI,SCR,"Narsampet Rd, Andhra Pradesh",Telangana,Warangal Rural,chintalpalli,-palli,1,0.582,0.582,False,109.5,79.70149,17.91486
+Andhra Pradesh,VMD,Vadlamannadu,SCR,"Krishna, Andhra Pradesh",Andhra Pradesh,Krishna,vadlamannadu,other,0,0.289,0.711,False,75.7,81.09888,16.30018
+Andhra Pradesh,UNDI,UNDI,SCR,"West Godavari, Andhra Pradesh",Andhra Pradesh,West Godavari,undi,other,0,0.291,0.709,False,77.4,81.46419,16.58038
+Andhra Pradesh,TPY,Tadakalpudi,SCR,"Kothagudem To Bhadrachalam Rd, Andhra Pradesh",Telangana,Bhadradri Kothagudem,tadakalpudi,-pudi,1,0.121,0.121,True,41.3,80.53221,17.53016
+,KZJT,KAZIPET TOWN,,,Telangana,Warangal Urban,kazipet,-pet(a),1,0.392,0.392,False,124.1,79.51771,17.98315
+,KZJE,KAZIPET E CABIN,,,Telangana,Warangal Urban,kazipet e,other,1,0.289,0.289,False,121.3,79.56118,17.9757
+,AKM,ARAMBAKKAM,,,Andhra Pradesh,S.P.S. Nellore,arambakkam,other,0,0.29,0.71,False,307.2,80.07437,13.53269
+,TADA,TADA,,,Andhra Pradesh,S.P.S. Nellore,tada,other,0,0.289,0.711,False,299.8,80.03544,13.58795
+,AKAT,AKKAMPET,,,Andhra Pradesh,S.P.S. Nellore,akkampet,-pet(a),0,0.42,0.58,False,293.0,80.01886,13.64911
+,SPE,SULLURUPETA,,,Andhra Pradesh,S.P.S. Nellore,sullurupeta,-pet(a),0,0.424,0.576,False,288.4,80.01816,13.69646
+,PEL,POLIREDDIPALEM,,,Andhra Pradesh,S.P.S. Nellore,polireddipalem,-palem,0,0.183,0.817,False,280.3,79.98003,13.75949
+,DVR,DORAVARI CHATRAM,,,Andhra Pradesh,S.P.S. Nellore,doravari chatram,other,0,0.291,0.709,False,273.5,79.95131,13.8143
+,NYP,NAYADUPETA,,,Andhra Pradesh,S.P.S. Nellore,nayadupeta,-pet(a),0,0.426,0.574,False,261.8,79.9009,13.90832
+,PYA,PEDAPARIYA,,,Andhra Pradesh,S.P.S. Nellore,pedapariya,other,0,0.29,0.71,False,249.6,79.87537,14.02148
+,ODUR,ODUR,,,Andhra Pradesh,S.P.S. Nellore,odur,-ur,0,0.301,0.699,False,243.7,79.85537,14.07218
+,GDR,GUDUR JN,,,Andhra Pradesh,S.P.S. Nellore,gudur,-ur,0,0.286,0.714,False,235.8,79.84512,14.14823
+,MBL,MANUBOLU,,,Andhra Pradesh,S.P.S. Nellore,manubolu,other,0,0.289,0.711,False,230.1,79.87707,14.22655
+,KMLP,KOMMARAPUDI,,,Andhra Pradesh,S.P.S. Nellore,kommarapudi,-pudi,0,0.175,0.825,False,227.8,79.8935,14.25778
+,DIG,DUGGIRALA,,,Andhra Pradesh,Guntur,duggirala,other,0,0.29,0.71,False,48.5,80.62357,16.32756
+,KVZ,KAVALI,,,Andhra Pradesh,S.P.S. Nellore,kavali,other,0,0.29,0.71,False,165.5,79.98827,14.91599
+,TTU,TETTU,,,Andhra Pradesh,Prakasam,tettu,other,0,0.29,0.71,False,154.6,80.00582,15.04282
+,UPD,ULAVAPADU,,,Andhra Pradesh,Prakasam,ulavapadu,-padu,0,0.095,0.905,False,143.8,80.01336,15.16711
+,PGU,PADUGUPADU,,,Andhra Pradesh,S.P.S. Nellore,padugupadu,-padu,0,0.095,0.905,False,206.9,79.98995,14.49698
+,KJJ,KODAVALURU,,,Andhra Pradesh,S.P.S. Nellore,kodavaluru,other,0,0.288,0.712,False,200.3,79.99491,14.56433
+,TMC,TALAMANCHI,,,Andhra Pradesh,S.P.S. Nellore,talamanchi,other,0,0.292,0.708,False,196.2,79.99817,14.60712
+,AXR,ALLURU ROAD,,,Andhra Pradesh,S.P.S. Nellore,alluru,other,0,0.288,0.712,False,185.5,79.98904,14.71054
+,BTTR,BITRAGUNTA,,,Andhra Pradesh,S.P.S. Nellore,bitragunta,other,0,0.291,0.709,False,179.5,79.98315,14.76858
+,SVPM,S VENKTESWRPALM,,,Andhra Pradesh,S.P.S. Nellore,s venkteswrpalm,other,0,0.29,0.71,False,175.8,79.98226,14.80667
+Andhra Pradesh,ARK,Arakku,ECoR,"Araku, Andhra Pradesh",Andhra Pradesh,Visakhapatnam,arakku,other,0,0.288,0.712,False,191.1,82.86256,18.33399
+,NLS,NELLORE SOUTH,,,Andhra Pradesh,S.P.S. Nellore,nellore,other,0,0.29,0.71,False,211.9,79.98346,14.44448
+Andhra Pradesh,VJA,VEJANDLA,SCR,"Guntur, Andhra Pradesh",Andhra Pradesh,Guntur,vejandla,other,0,0.289,0.711,False,58.3,80.51973,16.23723
+Andhra Pradesh,SJL,SANGAM JAGARLAMUDI,SCR,"High School Rd, Andhra Pradesh",Andhra Pradesh,Guntur,sangam jagarlamudi,other,0,0.291,0.709,False,57.0,80.57052,16.24659
+,VDE,VEDAYAPALEM,,,Andhra Pradesh,S.P.S. Nellore,vedayapalem,-palem,0,0.186,0.814,False,214.9,79.95711,14.40448
+,VKT,VENKATACHALAM,,,Andhra Pradesh,S.P.S. Nellore,venkatachalam,other,0,0.29,0.71,False,221.8,79.92732,14.32726
+,SDM,SURAREDDIPALEM,,,Andhra Pradesh,Prakasam,surareddipalem,-palem,0,0.189,0.811,False,125.8,80.04568,15.40757
+,PRH,POWERPET,,,Andhra Pradesh,West Godavari,powerpet,-pet(a),0,0.426,0.574,False,45.1,81.1066,16.71319
+,VGT,UNGUTURU,,,Andhra Pradesh,West Godavari,unguturu,other,0,0.289,0.711,False,51.6,81.42356,16.8245
+,BMGM,BRAHMANAGUDEM,,,Andhra Pradesh,West Godavari,brahmanagudem,other,0,0.289,0.711,False,59.7,81.67528,16.93026
+,KYM,KADIYAN,,,Andhra Pradesh,East Godavari,kadiyan,other,0,0.288,0.712,False,73.4,81.83267,16.91434
+,BBPM,BALABHADRAPURAM,,,Andhra Pradesh,East Godavari,balabhadrapuram,-puram,0,0.2,0.8,False,85.4,82.00038,16.9658
+,NASP,NARASINGAPALLI,,,Andhra Pradesh,Visakhapatnam,narasingapalli,-palli,0,0.587,0.413,False,167.1,82.89104,17.60675
+,GPT,GOPALAPATNAM,,,Andhra Pradesh,Visakhapatnam,gopalapatnam,other,0,0.289,0.711,False,202.9,83.21488,17.74882
+Andhra Pradesh,BKL,BONA KALU,SCR,"Bonakalu, Andhra Pradesh",Telangana,Khammam,bona kalu,other,1,0.288,0.288,False,4.0,80.2615,17.03159
+Andhra Pradesh,BTPD,Bethampurdi,SCR,"Kothagudem To Bhadrachalam Rd, Andhra Pradesh",Telangana,Bhadradri Kothagudem,bethampurdi,other,1,0.289,0.289,False,36.7,80.57366,17.54399
+Andhra Pradesh,BSX,BASAR,SCR,"Basara, Andhra Pradesh",Telangana,Nirmal,basar,other,1,0.289,0.289,False,286.5,77.93851,18.86512
+Andhra Pradesh,BVRT,BHIMAVARAM TOWN,SCR,"Bhimavaram, Andhra Pradesh",Andhra Pradesh,West Godavari,bhimavaram,-varam,0,0.218,0.782,False,83.0,81.51685,16.54735
+Andhra Pradesh,CKV,CHERUKUVADA,SCR,"Cherukawada, Andhra Pradesh",Andhra Pradesh,West Godavari,cherukuvada,-vada/wada,0,0.21,0.79,False,74.8,81.42156,16.58967
+Andhra Pradesh,DPD,DOSAPADU,SCR,"Krishna, Andhra Pradesh",Andhra Pradesh,Krishna,dosapadu,-padu,0,0.095,0.905,False,50.9,80.93877,16.46881
+Andhra Pradesh,PNDP,PANDILLAPALLI,SCR,"Pandillapalli Railway Station, Andhra Pradesh",Telangana,Khammam,pandillapalli,-palli,1,0.562,0.562,False,16.6,80.17023,17.17193
+Andhra Pradesh,GDV,GUDIVADA JN,SCR,"Krishna District, Andhra Pradesh",Andhra Pradesh,Krishna,gudivada,-vada/wada,0,0.202,0.798,False,57.5,80.98759,16.42989
+,GPBN,Gandhi Park Halt,?,,Telangana,Nizamabad,gandhi park,other,1,0.289,0.289,False,268.9,77.89339,18.65207
+Andhra Pradesh,GLA,GARLA,SCR,"Garla, Andhra Pradesh",Telangana,Mahabubabad,garla,other,1,0.288,0.288,False,51.2,80.13924,17.48708
+Andhra Pradesh,GWV,GOWDAVALLI,SCR,"Rangareddy, Andhra Pradesh",Telangana,Medchal Malkajgiri,gowdavalli,other,1,0.289,0.289,False,141.1,78.46819,17.60954
+Andhra Pradesh,GLE,Gajulaguden,SCR,"Gajulaguden, Andhra Pradesh",Telangana,Bhadradri Kothagudem,gajulaguden,other,1,0.287,0.287,False,26.4,80.6579,17.60973
+Andhra Pradesh,GVL,Gudlavalleru,SCR,"Gudlavalleru, Andhra Pradesh",Andhra Pradesh,Krishna,gudlavalleru,other,0,0.291,0.709,False,68.1,81.04604,16.34837
+Andhra Pradesh,HYB,HYDERABAD DECCAN,SCR,"Hyderabad, Andhra Pradesh",Telangana,Hyderabad,hyderabad deccan,other,1,0.288,0.288,False,122.9,78.46738,17.39336
+Andhra Pradesh,IDL,INDALVAI,SCR,"Indalvai, Andhra Pradesh",Telangana,Nizamabad,indalvai,other,1,0.288,0.288,False,241.2,78.24435,18.54866
+Andhra Pradesh,KI,KONDAPALLI,SCR,"Kondapalli, Andhra Pradesh",Andhra Pradesh,Krishna,kondapalli,-palli,0,0.59,0.41,False,16.0,80.54669,16.62324
+Andhra Pradesh,KMC,KAMAREDDI,SCR,"Kamareddi, Andhra Pradesh",Telangana,Kamareddy,kamareddi,other,1,0.29,0.29,False,215.2,78.33586,18.32586
+Maharashtra,KSAE,KOSAI,SCR,"Kinwat, Maharashtra",Telangana,Adilabad,kosai,other,1,0.288,0.288,False,336.6,78.33455,19.6395
+Andhra Pradesh,KRY,Kadiri,SCR,"Kadiri, Andhra Pradesh",Andhra Pradesh,Anantapur,kadiri,other,0,0.289,0.711,False,189.8,78.16559,14.11479
+Andhra Pradesh,LKSH,LAKSHMINARAYANAPURAM,SCR,"L Narayanapuram, Andhra Pradesh",Andhra Pradesh,West Godavari,lakshminarayanapuram,-puram,0,0.2,0.8,False,81.8,81.59257,16.6007
+Andhra Pradesh,MDR,MADHIRA,SCR,"K.Ponnavaram, Andhra Pradesh",Telangana,Khammam,madhira,other,1,0.29,0.29,False,5.4,80.36685,16.92183
+Andhra Pradesh,MCU,Mulacalacheruvu,SCR,"Mulakalacheruvu, Andhra Pradesh",Andhra Pradesh,Chittoor,mulacalacheruvu,-cheruvu,0,0.126,0.874,False,224.8,78.26483,13.80219
+Andhra Pradesh,MLGT,MALLAPPA GATE,SCR,"Guntakal, Andhra Pradesh",Andhra Pradesh,Kurnool,mallappa,other,0,0.288,0.712,False,77.7,77.38715,15.22503
+Andhra Pradesh,MZL,MIRZAPALI,SCR,"Medak, Andhra Pradesh",Telangana,Medak,mirzapali,other,1,0.289,0.289,False,181.6,78.4153,18.01796
+Andhra Pradesh,MYL,MALLIYALA,SCR,"Kurnool, Andhra Pradesh",Andhra Pradesh,Kurnool,malliyala,other,0,0.291,0.709,False,52.3,77.77676,15.3978
+Andhra Pradesh,NGNT,NEW GUNTUR,SCR,"Guntur City, Andhra Pradesh",Andhra Pradesh,Guntur,guntur,-ur,0,0.301,0.699,False,51.4,80.45822,16.31004
+Andhra Pradesh,NLRD,NECKLACE ROAD,SCR,"Hyderabad, Andhra Pradesh",Telangana,Hyderabad,necklace,other,1,0.289,0.289,False,125.6,78.46287,17.42334
+Andhra Pradesh,AKE,AKANAPET,SCR,"Medak, Andhra Pradesh",Telangana,Medak,akanapet,-pet(a),1,0.396,0.396,False,191.5,78.39631,18.11086
+Andhra Pradesh,NVC,NAGALWANCHA,SCR,"Jagannadhapuram To Matkepalli Rd, Andhra Pradesh",Telangana,Khammam,nagalwancha,other,1,0.289,0.289,False,7.1,80.22852,17.07433
+Andhra Pradesh,PAPM,PALAT POTARAM,SCR,"National Highway 7, Andhra Pradesh",Telangana,Medak,palat potaram,other,1,0.288,0.288,False,158.2,78.45444,17.79009
+Andhra Pradesh,NS,Narasapur,SCR,"Narsapur, Andhra Pradesh",Andhra Pradesh,West Godavari,narasapur,-pur,0,0.617,0.383,False,102.2,81.69991,16.44589
+Andhra Pradesh,PIL,Piler,SCR,"Piler Station, Andhra Pradesh",Andhra Pradesh,Chittoor,piler,other,0,0.289,0.711,False,254.3,78.9275,13.66235
+Andhra Pradesh,PKO,Palakollu,SCR,"Palakollu, Andhra Pradesh",Andhra Pradesh,West Godavari,palakollu,other,0,0.291,0.709,False,96.3,81.71714,16.52224
+Andhra Pradesh,POA,Palikona,SCR,"Bhattiprolu, Andhra Pradesh",Andhra Pradesh,Guntur,palikona,other,0,0.289,0.711,False,81.1,80.80435,16.06199
+Andhra Pradesh,VMU,Vemuru,SCR,"Coastal Andhra Region, Andhra Pradesh",Andhra Pradesh,Guntur,vemuru,other,0,0.291,0.709,False,67.1,80.74319,16.17812
+Andhra Pradesh,RAL,Repalle,SCR,"Repalle, Andhra Pradesh",Andhra Pradesh,Guntur,repalle,-palle,0,0.133,0.867,False,86.3,80.82874,16.01979
+Andhra Pradesh,RDG,Rayadurg,SWR,"Rayadurg, Andhra Pradesh",Andhra Pradesh,Anantapur,rayadurg,other,0,0.29,0.71,False,151.2,76.85683,14.70582
+Andhra Pradesh,BMPL,BRAHMANPALLI,SCR,"National Highway 7, Andhra Pradesh",Telangana,Medak,brahmanpalli,-palli,1,0.569,0.569,False,162.4,78.45018,17.83293
+Andhra Pradesh,AKVD,AKIVIDU,SCR,"Coast Andhra, Andhra Pradesh",Andhra Pradesh,West Godavari,akividu,other,0,0.289,0.711,False,73.8,81.36905,16.58265
+Andhra Pradesh,SKNR,Shakar Nagar,SCR,"Bodhan, Andhra Pradesh",Telangana,Nizamabad,shakar nagar,-nagar,1,0.722,0.722,False,268.9,77.90599,18.65939
+Andhra Pradesh,STPM,S NARAYANAPURAM,SCR,"Vijayawada, Andhra Pradesh",Andhra Pradesh,Krishna,s narayanapuram,-puram,0,0.195,0.805,False,27.8,80.64791,16.52549
+Andhra Pradesh,AKU,ANGALAKUDURU,SCR,"Coastal Andhra Region, Andhra Pradesh",Andhra Pradesh,Guntur,angalakuduru,other,0,0.289,0.711,False,57.3,80.60909,16.24532
+,VMLD,VEMULURIPADU,,,Andhra Pradesh,Guntur,vemuluripadu,-padu,0,0.097,0.903,False,51.0,80.29412,16.3098
+Andhra Pradesh,SVDC,Sivadevunichkla,SCR,"P.P.Road, Andhra Pradesh",Andhra Pradesh,West Godavari,sivadevunichkla,other,0,0.291,0.709,False,91.6,81.65894,16.53563
+Andhra Pradesh,AL,ATTILI,SCR,"West Godavari, Andhra Pradesh",Andhra Pradesh,West Godavari,attili,other,0,0.289,0.711,False,76.1,81.61636,16.68015
+Andhra Pradesh,TGU,TARIGOPPULA,SCR,"Krishna, Andhra Pradesh",Andhra Pradesh,Krishna,tarigoppula,other,0,0.289,0.711,False,41.8,80.83631,16.48568
+Andhra Pradesh,TNKU,TANUKU,SCR,"131, Andhra Pradesh",Andhra Pradesh,West Godavari,tanuku,other,0,0.289,0.711,False,74.2,81.67408,16.75204
+Andhra Pradesh,TNRU,TENNERU,SCR,"Manthena, Andhra Pradesh",Andhra Pradesh,Krishna,tenneru,other,0,0.29,0.71,False,39.9,80.81399,16.48889
+Andhra Pradesh,UPL,UPPALUR,SCR,"Krishna, Andhra Pradesh",Andhra Pradesh,Krishna,uppalur,-ur,0,0.289,0.711,False,37.4,80.78012,16.4928
+Andhra Pradesh,WDR,WADIARAM,SCR,"Telangana Region, Andhra Pradesh",Telangana,Medak,wadiaram,other,1,0.289,0.289,False,175.3,78.45542,17.97261
+Andhra Pradesh,VVM,Viravasaram,SCR,"Palakollu, Andhra Pradesh",Andhra Pradesh,West Godavari,viravasaram,other,0,0.291,0.709,False,89.5,81.63254,16.54212
+Andhra Pradesh,YP,ERRUPALEM,SCR,"Yerrupalem, Andhra Pradesh",Telangana,Khammam,errupalem,-palem,1,0.128,0.128,True,1.3,80.47105,16.82537
+Andhra Pradesh,YGL,YELGUR,SCR,"Yelgur Station, Andhra Pradesh",Telangana,Warangal Rural,yelgur,-ur,1,0.268,0.268,False,102.3,79.74703,17.8609
+Andhra Pradesh,ZPI,Zampini,SCR,"Zampani, Andhra Pradesh",Andhra Pradesh,Guntur,zampini,other,0,0.29,0.71,False,64.1,80.71401,16.19903
+Andhra Pradesh,ZB,Zahirabad,SCR,"Dist. Medak, Andhra Pradesh",Telangana,Sangareddy,zahirabad,-abad,1,0.749,0.749,False,190.3,77.61021,17.67496
+Andhra Pradesh,YDP,Yedapalli,SCR,"Telangana Region, Andhra Pradesh",Telangana,Nizamabad,yedapalli,-palli,1,0.573,0.573,False,268.1,77.95287,18.67866
+Andhra Pradesh,BMO,BOLARUM,SCR,"Secunderabad, Andhra Pradesh",Telangana,Medchal Malkajgiri,bolarum,other,1,0.288,0.288,False,131.5,78.51542,17.53355
+Andhra Pradesh,AWM,Aswapuram,SCR,"Sarapaka, Andhra Pradesh",Telangana,Bhadradri Kothagudem,aswapuram,-puram,1,0.167,0.167,True,12.9,80.80126,17.82127
+Andhra Pradesh,DHP,DICHPALLI,SCR,"Dichpalli, Andhra Pradesh",Telangana,Nizamabad,dichpalli,-palli,1,0.573,0.573,False,249.8,78.19467,18.61329
+Andhra Pradesh,GUU,GUNDRATIMADUGU,SCR,"Mahbuababad-Badrachalam Rd, Andhra Pradesh",Telangana,Mahabubabad,gundratimadugu,other,1,0.289,0.289,False,57.0,80.07995,17.53228
+Andhra Pradesh,GDPL,GUNDLA POCHAMPALLI,SCR,"Rangareddy, Andhra Pradesh",Telangana,Medchal Malkajgiri,gundla pochampalli,-palli,1,0.575,0.575,False,136.2,78.48837,17.5681
+Andhra Pradesh,JKM,JANKAMPET JN,SCR,"Nizamabad, Andhra Pradesh",Telangana,Nizamabad,jankampet,-pet(a),1,0.391,0.391,False,265.2,78.05386,18.70264
+Andhra Pradesh,KCI,Kallkiri,SCR,"Punganur Rd, Andhra Pradesh",Andhra Pradesh,Chittoor,kallkiri,other,0,0.289,0.711,False,252.3,78.80113,13.64362
+Andhra Pradesh,KLDI,KALDHARI,SCR,"Kaldhari Main Rd, Andhra Pradesh",Andhra Pradesh,West Godavari,kaldhari,other,0,0.288,0.712,False,67.4,81.67805,16.83785
+Andhra Pradesh,MPT,Mangalampeta,SCR,"Naravari Palle Rd, Andhra Pradesh",Andhra Pradesh,Chittoor,mangalampeta,-pet(a),0,0.441,0.559,False,269.3,79.07402,13.56834
+Andhra Pradesh,MOB,MANOHARABAD,SCR,"Medak, Andhra Pradesh",Telangana,Medak,manoharabad,-abad,1,0.747,0.747,False,155.0,78.4544,17.75573
+Andhra Pradesh,MVW,Mallividu,ECoR,"Coastal Andhra Region, Andhra Pradesh",Andhra Pradesh,Vizianagaram,mallividu,other,0,0.291,0.709,False,204.4,83.17286,17.97193
+Andhra Pradesh,NKD,NEKONDA,SCR,"Nekkonda, Andhra Pradesh",Telangana,Warangal Rural,nekonda,-konda,1,0.174,0.174,True,93.4,79.80459,17.79488
+Andhra Pradesh,MUGR,Manuguru,SCR,"Telangana Region, Andhra Pradesh",Telangana,Bhadradri Kothagudem,manuguru,other,1,0.289,0.289,False,22.6,80.79903,17.92527
+Andhra Pradesh,PPY,PAPATAPALLI,SCR,"GUDURU PADU, Andhra Pradesh",Telangana,Khammam,papatapalli,-palli,1,0.57,0.57,False,38.6,80.17574,17.37369
+Andhra Pradesh,PDSN,Peddasana,ECoR,"National Highway 5, Andhra Pradesh",Andhra Pradesh,Srikakulam,peddasana,other,0,0.291,0.709,False,326.7,84.18449,18.59315
+Andhra Pradesh,SGKM,Srungavruksham,SCR,"Srungavruksham, Andhra Pradesh",Andhra Pradesh,West Godavari,srungavruksham,other,0,0.29,0.71,False,87.6,81.60191,16.54376
+Andhra Pradesh,RCA,Rentachintala,SCR,"Guntur, Andhra Pradesh",Andhra Pradesh,Guntur,rentachintala,other,0,0.289,0.711,False,9.6,79.54949,16.54526
+Andhra Pradesh,SLM,Somalapuram,SWR,"Anantapur Rd, Andhra Pradesh",Andhra Pradesh,Anantapur,somalapuram,-puram,0,0.193,0.807,False,130.7,76.86886,14.91402
+Andhra Pradesh,UMM,UMRAM,SCR,"Sitagondi, Andhra Pradesh",Telangana,Adilabad,umram,other,1,0.289,0.289,False,329.8,78.43734,19.66159
+Andhra Pradesh,TMD,TALMADLA,SCR,"Telangana Region, Andhra Pradesh",Telangana,Kamareddy,talmadla,other,1,0.289,0.289,False,205.8,78.35664,18.23922
+Andhra Pradesh,TGL,TUGGALI,SCR,"Kurnool, Andhra Pradesh",Andhra Pradesh,Kurnool,tuggali,other,0,0.288,0.712,False,64.4,77.53015,15.31098
+Andhra Pradesh,VPU,VELPURU,SCR,"Velupuru, Andhra Pradesh",Andhra Pradesh,West Godavari,velpuru,other,0,0.29,0.71,False,75.5,81.66263,16.72596
+Andhra Pradesh,BGHU,Borraguhallu,ECoR,"Way to Rly Station, Andhra Pradesh",Andhra Pradesh,Visakhapatnam,borraguhallu,other,0,0.29,0.71,False,204.1,83.04029,18.27562
+Andhra Pradesh,BDCR,Bhadrachalam Road,SCR,"Kottagudem, Andhra Pradesh",Telangana,Bhadradri Kothagudem,bhadrachalam,other,1,0.288,0.288,False,32.3,80.61602,17.55036
+Andhra Pradesh,BKU,BHIKNUR,SCR,"Nizamabad, Andhra Pradesh",Telangana,Kamareddy,bhiknur,-ur,1,0.262,0.262,False,196.5,78.39915,18.16449
+Andhra Pradesh,ADB,ADILABAD,SCR,"Adilabad, Andhra Pradesh",Telangana,Adilabad,adilabad,-abad,1,0.751,0.751,False,323.3,78.53528,19.6801
+Andhra Pradesh,CIV,Chinnaravuru,SCR,"Tenali, Andhra Pradesh",Andhra Pradesh,Guntur,chinnaravuru,other,0,0.289,0.711,False,60.2,80.65584,16.22401
+Andhra Pradesh,MPL,Madanapalle Road,SCR,"Madanapalle Road Station, Andhra Pradesh",Andhra Pradesh,Chittoor,madanapalle,-palle,0,0.129,0.871,False,246.5,78.55442,13.64444
+Andhra Pradesh,CCI,Chinnekuntapali,SCR,"Chennai - Anantpur Rd, Andhra Pradesh",Andhra Pradesh,Anantapur,chinnekuntapali,other,0,0.29,0.71,False,155.6,77.84206,14.44279
+Andhra Pradesh,AMQ,AMMUGUDA,SCR,"Secunderabad, Andhra Pradesh",Telangana,Medchal Malkajgiri,ammuguda,-guda,1,0.741,0.741,False,126.7,78.52722,17.48704
+Andhra Pradesh,ALW,ALWAL,SCR,"Secunderabad, Andhra Pradesh",Telangana,Medchal Malkajgiri,alwal,other,1,0.288,0.288,False,129.1,78.51501,17.50578
+Andhra Pradesh,BDHN,Bodhan,SCR,"Bodhan, Andhra Pradesh",Telangana,Nizamabad,bodhan,other,1,0.287,0.287,False,268.6,77.88817,18.64593
+Andhra Pradesh,BLL,BANTANAHAL,SCR,"Rayalaseema Region, Andhra Pradesh",Andhra Pradesh,Kurnool,bantanahal,other,0,0.289,0.711,False,87.6,77.27572,15.1629
+Andhra Pradesh,BTM,Battulapuram,SCR,"Battulapuram Station, Andhra Pradesh",Andhra Pradesh,Chittoor,battulapuram,-puram,0,0.198,0.802,False,231.2,78.3058,13.7476
+Andhra Pradesh,DKJ,DORNAKAL JN,SCR,"Garla, Andhra Pradesh",Telangana,Mahabubabad,dornakal,other,1,0.288,0.288,False,46.6,80.15316,17.44599
+Andhra Pradesh,FKB,FAKHRABAD,SCR,"Basara, Andhra Pradesh",Telangana,Nizamabad,fakhrabad,-abad,1,0.754,0.754,False,280.8,77.97448,18.82464
+Andhra Pradesh,GNN,GANGINENI,SCR,"Yerrupalem, Andhra Pradesh",Andhra Pradesh,Krishna,gangineni,other,0,0.289,0.711,False,1.8,80.49895,16.78175
+Andhra Pradesh,GUK,GUNTAKONDURU,SCR,"P.P.Road, Andhra Pradesh",Andhra Pradesh,Krishna,guntakonduru,other,0,0.289,0.711,False,63.4,81.07753,16.45715
+Andhra Pradesh,KDM,KESAMUDRAM,SCR,"Kesamudram, Andhra Pradesh",Telangana,Mahabubabad,kesamudram,other,1,0.289,0.289,False,78.8,79.89647,17.68625
+Andhra Pradesh,COA,Kakinada Port,SCR,"Kakinada, Andhra Pradesh",Andhra Pradesh,East Godavari,kakinada port,other,0,0.29,0.71,False,108.9,82.24006,16.9552
+Andhra Pradesh,KCM,Kalasumudram,SCR,"Chennai - Anantpur Rd, Andhra Pradesh",Andhra Pradesh,Anantapur,kalasumudram,other,0,0.289,0.711,False,178.3,78.09968,14.21716
+Andhra Pradesh,CMW,Chima Pahad,SCR,"Khammam, Andhra Pradesh",Telangana,Bhadradri Kothagudem,chima pahad,other,1,0.291,0.291,False,41.5,80.46366,17.51601
+Andhra Pradesh,CVB,CAVALRY BARRCKS,SCR,"Secunderabad, Andhra Pradesh",Telangana,Medchal Malkajgiri,cavalry barrcks,other,1,0.288,0.288,False,127.9,78.51869,17.49473
+Andhra Pradesh,KMT,KHAMMAM,SCR,"Khammam, Andhra Pradesh",Telangana,Khammam,khammam,other,1,0.289,0.289,False,25.5,80.13849,17.24935
+Andhra Pradesh,KRA,Karepalli,SCR,"Karepally, Andhra Pradesh",Telangana,Khammam,karepalli,-palli,1,0.574,0.574,False,50.8,80.27186,17.51141
+Andhra Pradesh,LMD,LINGANENIDODDI,SCR,"Rayalaseema Region, Andhra Pradesh",Andhra Pradesh,Kurnool,linganenidoddi,other,0,0.289,0.711,False,52.7,77.7034,15.39993
+Andhra Pradesh,KVM,Kavutaram,SCR,"Krishna, Andhra Pradesh",Andhra Pradesh,Krishna,kavutaram,other,0,0.291,0.709,False,71.3,81.06961,16.32892
+Andhra Pradesh,MKR,MADDIKERA,SCR,"Guntakal, Andhra Pradesh",Andhra Pradesh,Kurnool,maddikera,other,0,0.287,0.713,False,73.6,77.4115,15.25664
+Andhra Pradesh,MABD,MAHBUBABAD,SCR,"Mahbubabad, Andhra Pradesh",Telangana,Mahabubabad,mahbubabad,-abad,1,0.747,0.747,False,66.0,79.99979,17.59756
+Andhra Pradesh,MED,MEDCHAL,SCR,"Rangareddy, Andhra Pradesh",Telangana,Medchal Malkajgiri,medchal,other,1,0.289,0.289,False,143.3,78.47456,17.63934
+Andhra Pradesh,ME,MASAIPET,SCR,"Medak, Andhra Pradesh",Telangana,Medak,masaipet,-pet(a),1,0.399,0.399,False,165.9,78.46696,17.88054
+Andhra Pradesh,MTMI,MOTIMARI,SCR,"Motimarri Station, Andhra Pradesh",Telangana,Khammam,motimari,other,1,0.288,0.288,False,1.2,80.3209,16.9566
+Andhra Pradesh,MRF,Marpalli,SCR,"Veerlapally, Andhra Pradesh",Telangana,Vikarabad,marpalli,-palli,1,0.578,0.578,False,174.3,77.77148,17.54542
+Andhra Pradesh,PSLP,PASALAPUDI,SCR,"Putlacheruvu, Andhra Pradesh",Andhra Pradesh,Krishna,pasalapudi,-pudi,0,0.174,0.826,False,64.2,81.09515,16.47092
+Andhra Pradesh,OTR,MOTURU,SCR,"Coastal Andhra Region, Andhra Pradesh",Andhra Pradesh,Krishna,moturu,other,0,0.289,0.711,False,62.2,81.05114,16.43997
+Andhra Pradesh,NVT,NAVIPET,SCR,"Nizamabad, Andhra Pradesh",Telangana,Nizamabad,navipet,-pet(a),1,0.396,0.396,False,273.7,78.01319,18.77046
+Andhra Pradesh,PCL,Pulicherla,SCR,"Pulicherla Station, Andhra Pradesh",Andhra Pradesh,Chittoor,pulicherla,-cherla,0,0.244,0.756,False,264.9,79.0404,13.59898
+Andhra Pradesh,NUJ,Nujella,SCR,"Krishna, Andhra Pradesh",Andhra Pradesh,Krishna,nujella,other,0,0.289,0.711,False,63.4,81.0224,16.3866
+Andhra Pradesh,PHM,Patapatnam,ECoR,"Srikakulam District, Andhra Pradesh",Andhra Pradesh,Srikakulam,patapatnam,other,0,0.29,0.71,False,323.6,84.08147,18.74075
+,MIX,Manipuram Cabin,,,Andhra Pradesh,Guntur,manipuram,-puram,0,0.193,0.807,False,52.6,80.45759,16.29953
+Andhra Pradesh,PUMU,Penumarru,SCR,"Koteparu, Andhra Pradesh",Andhra Pradesh,Guntur,penumarru,other,0,0.288,0.712,False,73.0,80.77586,16.13143
+Andhra Pradesh,RYP,RAYANAPAD,SCR,"Rayanapad Station, Andhra Pradesh",Andhra Pradesh,Krishna,rayanapad,other,0,0.29,0.71,False,20.8,80.56294,16.5775
+Andhra Pradesh,SHAN,SRINIVASA NAGAR,SCR,"Ramanthapur, Andhra Pradesh",Telangana,Medak,srinivasa nagar,-nagar,1,0.719,0.719,False,169.0,78.46192,17.90996
+Andhra Pradesh,SCP,SIRNAPALLI,SCR,"Sirnapalli, Andhra Pradesh",Telangana,Nizamabad,sirnapalli,-palli,1,0.575,0.575,False,233.9,78.27113,18.48748
+Andhra Pradesh,SNKG,SANKARAGUMMANUR HALT,SCR,"National Highway 63, Andhra Pradesh",Andhra Pradesh,Kurnool,sankaragummanur,-ur,0,0.294,0.706,False,88.5,77.23552,15.16717
+Andhra Pradesh,SFX,SAFILGUDA,SCR,"Secunderabad, Andhra Pradesh",Telangana,Medchal Malkajgiri,safilguda,-guda,1,0.737,0.737,False,124.1,78.53311,17.46167
+Andhra Pradesh,PAV,Pedana,SCR,"Pedana, Andhra Pradesh",Andhra Pradesh,Krishna,pedana,other,0,0.291,0.709,False,82.8,81.14379,16.25211
+Andhra Pradesh,THPR,TIPPAPUR,SCR,"National Highway 7, Andhra Pradesh",Telangana,Kamareddy,tippapur,-pur,1,0.582,0.582,False,200.4,78.37738,18.19412
+Andhra Pradesh,TLMG,TALMADUGU,?,"Sitagondi, Andhra Pradesh",Telangana,Adilabad,talmadugu,other,1,0.288,0.288,False,331.7,78.39635,19.64178
+Andhra Pradesh,UPW,UPPALAVAI,SCR,"Uppalwai Main Rd, Andhra Pradesh",Telangana,Kamareddy,uppalavai,other,1,0.288,0.288,False,225.7,78.31611,18.42489
+Andhra Pradesh,VND,VENDRA,SCR,"Mogollu Rd, Andhra Pradesh",Andhra Pradesh,West Godavari,vendra,other,0,0.29,0.71,False,82.6,81.56909,16.57843
+Andhra Pradesh,TXD,Tyada,ECoR,"Vishakhapatnam, Andhra Pradesh",Andhra Pradesh,Visakhapatnam,tyada,other,0,0.29,0.71,False,201.5,83.04219,18.21797
+Andhra Pradesh,WL,WARANGAL,SCR,"Warangal, Andhra Pradesh",Telangana,Warangal Urban,warangal,other,1,0.289,0.289,False,119.1,79.60493,17.97248
+Andhra Pradesh,VPG,VENTRAPRAGADA,SCR,"Krishna, Andhra Pradesh",Andhra Pradesh,Krishna,ventrapragada,other,0,0.289,0.711,False,48.5,80.91445,16.47382
+Andhra Pradesh,VLV,Vallivedu,SCR,"Vallivedu, Andhra Pradesh",Andhra Pradesh,Chittoor,vallivedu,other,0,0.289,0.711,False,273.2,79.06822,13.52858
+Andhra Pradesh,TAA,TADLA PUSAPALLI,SCR,"Mahbubabad, Andhra Pradesh",Telangana,Mahabubabad,tadla pusapalli,-palli,1,0.583,0.583,False,70.5,79.95418,17.62631
+Andhra Pradesh,EDD,EDDULADODDI,SCR,"Pyapili, Andhra Pradesh",Andhra Pradesh,Kurnool,edduladoddi,other,0,0.289,0.711,False,61.3,77.58991,15.3297
+Andhra Pradesh,KKLR,KAIKOLUR,SCR,"Kaikalur, Andhra Pradesh",Andhra Pradesh,Krishna,kaikolur,-ur,0,0.295,0.705,False,66.4,81.21832,16.55103
+Andhra Pradesh,CLU,Chilakalapudi,SCR,"Machilipatnam, Andhra Pradesh",Andhra Pradesh,Krishna,chilakalapudi,-pudi,0,0.18,0.82,False,88.0,81.16214,16.20272
+,NDPL,NDPL,,,Andhra Pradesh,Kurnool,ndpl,other,0,0.29,0.71,False,57.3,78.52061,15.45631
+,NCE,Nalacheruvu East,,,Andhra Pradesh,Anantapur,nalacheruvu,-cheruvu,0,0.125,0.875,False,203.8,78.18549,13.98821
+Andhra Pradesh,MCLA,Macherla,SCR,"Macherla, Andhra Pradesh",Andhra Pradesh,Guntur,macherla,-cherla,0,0.252,0.748,False,12.4,79.43828,16.46951
+Andhra Pradesh,BOZ,BOLARUM BAZAR,SCR,"Secunderabad, Andhra Pradesh",Telangana,Medchal Malkajgiri,bolarum bazar,other,1,0.287,0.287,False,130.0,78.51597,17.51785
+,GTLW,GUNTAKAL WEST,,,Andhra Pradesh,Anantapur,guntakal,other,0,0.289,0.711,False,85.1,77.34265,15.16752
+Andhra Pradesh,PLVA,PALLEVADA,SCR,"Pallevada, Andhra Pradesh",Andhra Pradesh,Krishna,pallevada,-vada/wada,0,0.212,0.788,False,68.9,81.2879,16.5767
+Andhra Pradesh,CKN,CHINTA KANI,SCR,"Chinta Kani Station, Andhra Pradesh",Telangana,Khammam,chinta kani,other,1,0.288,0.288,False,11.7,80.20134,17.12646
+,TKPY,TURAKAPALLI,,,Andhra Pradesh,Anantapur,turakapalli,-palli,0,0.594,0.406,False,86.9,77.62851,15.09271
+Andhra Pradesh,CVV,CHERUVU MADHAVARAM,SCR,"Cheruvu Madhavaram Station, Andhra Pradesh",Andhra Pradesh,Krishna,cheruvu madhavaram,-varam,0,0.228,0.772,False,4.4,80.51878,16.74602
+Andhra Pradesh,MCLE,MANCHILI,SCR,"Coastal Andhra Region, Andhra Pradesh",Andhra Pradesh,West Godavari,manchili,other,0,0.289,0.711,False,77.5,81.61368,16.66293
+Andhra Pradesh,DCU,Damalcheruvu,SCR,"National Highway 18, Andhra Pradesh",Andhra Pradesh,Chittoor,damalcheruvu,-cheruvu,0,0.127,0.873,False,277.9,79.05643,13.47888
+,GKPI,Gate Karepalli,,,Telangana,Khammam,gate karepalli,-palli,1,0.576,0.576,False,51.1,80.2551,17.5003
+,HSJ,HUSSAIN SAGAR J,,,Telangana,Hyderabad,hussain sagar j,other,1,0.288,0.288,False,125.9,78.4619,17.42645
+,NWBV,NWBV,,,Andhra Pradesh,Krishna,nwbv,other,0,0.289,0.711,False,26.6,80.62039,16.52988
+Andhra Pradesh,INK,INTAKANNE,SCR,"Intikanne Station, Andhra Pradesh",Telangana,Warangal Rural,intakanne,other,1,0.288,0.288,False,84.4,79.86051,17.72752
+,KZJF,KAZIPET F CABIN,,,Telangana,Warangal Urban,kazipet f,other,1,0.288,0.288,False,120.5,79.57727,17.97482
+Andhra Pradesh,KVLS,Karakavalasa,ECoR,"Coastal Andhra Region, Andhra Pradesh",Andhra Pradesh,Visakhapatnam,karakavalasa,other,0,0.289,0.711,False,200.4,82.99143,18.29223
+Andhra Pradesh,PCZ,Pocharam,SCR,"Khammam To Yellanddu Rd, Andhra Pradesh",Telangana,Khammam,pocharam,other,1,0.288,0.288,False,51.2,80.23458,17.48672
+,COAC,Coac,,,Andhra Pradesh,East Godavari,coac,other,0,0.289,0.711,False,108.4,82.23821,16.96455
+,REP,RESAULI,,,Andhra Pradesh,Guntur,resauli,other,0,0.288,0.712,False,51.5,80.45786,16.30968
+,PMDB,PAMIDI,,,Andhra Pradesh,Anantapur,pamidi,other,0,0.29,0.71,False,99.4,77.59909,14.98119
+Andhra Pradesh,BQU,Bhattiprolu,SCR,"Bhattiprolu, Andhra Pradesh",Andhra Pradesh,Guntur,bhattiprolu,other,0,0.288,0.712,False,76.0,80.78795,16.10563
+,DKJB,Dornakal Bye Pass,,,Telangana,Mahabubabad,dornakal bye pass,other,1,0.289,0.289,False,44.7,80.15791,17.42921
+,SQZ,VANCHANGIRI,,,Telangana,Warangal Rural,vanchangiri,other,1,0.287,0.287,False,114.5,79.66715,17.95128
+Andhra Pradesh,TEK,Tekkali Halt,ECoR,"Tekkali, Andhra Pradesh",Andhra Pradesh,Srikakulam,tekkali,other,0,0.288,0.712,False,331.7,84.23118,18.60528
+Andhra Pradesh,RKO,RAMAKRISHNAPURAM GATE,SCR,"Secunderabad, Andhra Pradesh",Telangana,Medchal Malkajgiri,ramakrishnapuram,-puram,1,0.164,0.164,True,125.6,78.52847,17.4763
+,GVP,Gate Vanampalli,,,Telangana,Vikarabad,gate vanampalli,-palli,1,0.58,0.58,False,159.8,77.89262,17.44847
+,STDB,SITAFALMANDI B,,,Telangana,Medchal Malkajgiri,sitafalmandi b,other,1,0.287,0.287,False,122.1,78.52025,17.4283
+,MDUN,Madhura Nagar,,,Andhra Pradesh,Krishna,madhura nagar,-nagar,0,0.76,0.24,True,27.8,80.64761,16.52535
+,LVK,Lakkavarapukota,,,Andhra Pradesh,Vizianagaram,lakkavarapukota,other,0,0.289,0.711,False,203.4,83.14745,18.01846
+,BBRA,Bbra,,,Andhra Pradesh,West Godavari,bbra,other,0,0.29,0.71,False,83.6,81.53283,16.54914
+Andhra Pradesh,SSPD,Sadashivapet Road,SCR,"Sadashivapet, Andhra Pradesh",Telangana,Vikarabad,sadashivapet,-pet(a),1,0.389,0.389,False,164.1,77.87282,17.48356
+,BDVR,Bodavara,,,Andhra Pradesh,Visakhapatnam,bodavara,other,0,0.289,0.711,False,206.2,83.11249,18.1751
+Andhra Pradesh,GHPU,Gandhipuram Halt,SCR,"Gandhi Nagar, Andhra Pradesh",Telangana,Khammam,gandhipuram,-puram,1,0.168,0.168,True,46.7,80.31352,17.49505
+,VLCA,VELLALCHERUVU H,,,Andhra Pradesh,Prakasam,vellalcheruvu,-cheruvu,0,0.126,0.874,False,55.4,79.89122,16.13258
+,KUCH,KUCHAVARAM HALT,,,Telangana,Medak,kuchavaram,-varam,1,0.161,0.161,True,152.7,78.45722,17.7321
+,WAT,WALTAIR,,,Andhra Pradesh,Visakhapatnam,waltair,other,0,0.289,0.711,False,210.2,83.29008,17.72238
+,GZA,Gurujalas,,,Andhra Pradesh,Guntur,gurujalas,other,0,0.29,0.71,False,12.7,79.63907,16.54841
+Andhra Pradesh,STVA,SATYAVADA,SCR,"Coastal Andhra Region, Andhra Pradesh",Andhra Pradesh,West Godavari,satyavada,-vada/wada,0,0.212,0.788,False,70.2,81.66986,16.79985
+,CTPR,Chinta Parru Ha,,,Andhra Pradesh,West Godavari,chinta parru ha,other,0,0.289,0.711,False,94.6,81.70661,16.5348
+,MVA,Malaka Vemala,,,Andhra Pradesh,Anantapur,malaka vemala,other,0,0.289,0.711,False,172.7,78.05394,14.26889
+,PGDI,Pagidirai Halt,,,Andhra Pradesh,Kurnool,pagidirai,other,0,0.289,0.711,False,66.3,77.60155,15.283
+Andhra Pradesh,AVLI,ARAVALLI,SCR,"West Godavari, Andhra Pradesh",Andhra Pradesh,West Godavari,aravalli,other,0,0.288,0.712,False,80.4,81.5991,16.62049
+Andhra Pradesh,TNGM,TONDALAGOPAVARAM,SCR,"Tondalagopavaram Station, Andhra Pradesh",Telangana,Khammam,tondalagopavaram,-varam,1,0.159,0.159,True,3.8,80.43078,16.86827
+,SNPH,SHANKAPUR HALT,,,Telangana,Medak,shankapur,-pur,1,0.589,0.589,False,186.9,78.4021,18.06612
+Andhra Pradesh,TMB,Temburu,ECoR,"Paralakhemundi, Andhra Pradesh",Andhra Pradesh,Srikakulam,temburu,other,0,0.289,0.711,False,323.0,84.12696,18.63356
+Andhra Pradesh,CCT,KAKINADA TOWN,SCR,"East Godavari, Andhra Pradesh",Andhra Pradesh,East Godavari,kakinada,other,0,0.29,0.71,False,107.7,82.23292,16.96701
+Andhra Pradesh,MVP,MOKHASA KALVPDI,SCR,"Putlacheruvu, Andhra Pradesh",Andhra Pradesh,Krishna,mokhasa kalvpdi,other,0,0.292,0.708,False,66.2,81.13029,16.49553
+Andhra Pradesh,TKBN,TSAKIBANDA,SWR,"Rayalaseema Region, Andhra Pradesh",Andhra Pradesh,Kurnool,tsakibanda,other,0,0.289,0.711,False,91.1,77.17811,15.16346
+,TIM,TIMMANACHERLA,,,Andhra Pradesh,Anantapur,timmanacherla,-cherla,0,0.258,0.742,False,83.9,77.39408,15.16347
+,NKDO,NAKKANADODDI,,,Andhra Pradesh,Anantapur,nakkanadoddi,other,0,0.288,0.712,False,81.3,77.47668,15.16531
+,PLU,PATAKOTTACHERU,,,Andhra Pradesh,Anantapur,patakottacheru,other,0,0.289,0.711,False,79.6,77.5218,15.17208
+,GY,GOOTY JN,,,Andhra Pradesh,Anantapur,gooty,other,0,0.29,0.71,False,80.7,77.62582,15.14921
+,JKO,JAKKALACHERUVU,,,Andhra Pradesh,Anantapur,jakkalacheruvu,-cheruvu,0,0.125,0.875,False,84.3,77.72695,15.10912
+,RLO,RAYALCHERUVU,,,Andhra Pradesh,Anantapur,rayalcheruvu,-cheruvu,0,0.127,0.873,False,89.8,77.82104,15.05596
+,VML,VEMULAPADU,,,Andhra Pradesh,Anantapur,vemulapadu,-padu,0,0.093,0.907,False,93.2,77.85138,15.0221
+,JUR,JUTTURU,,,Andhra Pradesh,Anantapur,jutturu,other,0,0.291,0.709,False,96.6,77.8981,14.97885
+,KMQA,KOMALI,,,Andhra Pradesh,Anantapur,komali,other,0,0.289,0.711,False,100.6,77.9276,14.93639
+,TU,TADIPATRI,,,Andhra Pradesh,Anantapur,tadipatri,other,0,0.289,0.711,False,103.0,77.97898,14.90756
+,CLPE,CHALLAVARIPALLI,,,Andhra Pradesh,Anantapur,challavaripalli,-palli,0,0.587,0.413,False,105.9,78.03444,14.87673
+,VRN,VANGANUR,,,Andhra Pradesh,Y.S.R. Kadapa,vanganur,-ur,0,0.298,0.702,False,109.0,78.08091,14.84744
+,RLL,REGADIPALLI,,,Andhra Pradesh,Y.S.R. Kadapa,regadipalli,-palli,0,0.597,0.403,False,112.9,78.136,14.81357
+,KDP,KONDAPURAM,,,Andhra Pradesh,Y.S.R. Kadapa,kondapuram,-puram,0,0.198,0.802,False,117.7,78.19346,14.77355
+,MUM,MANGAPATNAM,,,Andhra Pradesh,Y.S.R. Kadapa,mangapatnam,other,0,0.288,0.712,False,122.7,78.26075,14.7367
+,CIN,CHINTAKUNTA,,,Andhra Pradesh,Y.S.R. Kadapa,chintakunta,other,0,0.29,0.71,False,125.7,78.32388,14.7197
+,MOO,MUDDANURU,,,Andhra Pradesh,Y.S.R. Kadapa,muddanuru,other,0,0.291,0.709,False,130.4,78.39539,14.68842
+,KMH,KALAMALIA,,,Andhra Pradesh,Y.S.R. Kadapa,kalamalia,other,0,0.288,0.712,False,134.4,78.47017,14.66711
+,YA,YERRAGUNTLA,,,Andhra Pradesh,Y.S.R. Kadapa,yerraguntla,other,0,0.289,0.711,False,138.7,78.534,14.64233
+,YGD,YERRAGUDIPAD,,,Andhra Pradesh,Y.S.R. Kadapa,yerragudipad,other,0,0.288,0.712,False,143.5,78.60637,14.61867
+,KKM,KAMALAPURAM,,,Andhra Pradesh,Y.S.R. Kadapa,kamalapuram,-puram,0,0.195,0.805,False,148.5,78.66611,14.59176
+,GPY,GANGAYAPLLE,,,Andhra Pradesh,Y.S.R. Kadapa,gangayaplle,other,0,0.29,0.71,False,154.3,78.71746,14.55412
+,KPU,KRISHNAPURAM,,,Andhra Pradesh,Y.S.R. Kadapa,krishnapuram,-puram,0,0.198,0.802,False,162.9,78.77656,14.49347
+,HX,CUDDAPAH,,,Andhra Pradesh,Y.S.R. Kadapa,cuddapah,other,0,0.29,0.71,False,169.4,78.82918,14.45169
+,KNLP,KANAMALO PALLE,,,Andhra Pradesh,Y.S.R. Kadapa,kanamalo palle,-palle,0,0.131,0.869,False,174.5,78.92534,14.42877
+,BKPT,BHAKARAPET,,,Andhra Pradesh,Y.S.R. Kadapa,bhakarapet,-pet(a),0,0.436,0.564,False,177.2,78.97007,14.40936
+,VNM,ONTIMITTA,,,Andhra Pradesh,Y.S.R. Kadapa,ontimitta,other,0,0.29,0.71,False,179.8,79.01627,14.39246
+,MMPL,MANTAPAMPALLE,,,Andhra Pradesh,Y.S.R. Kadapa,mantapampalle,-palle,0,0.133,0.867,False,188.7,79.0786,14.32164
+,NRE,NANDALUR,,,Andhra Pradesh,Y.S.R. Kadapa,nandalur,-ur,0,0.296,0.704,False,195.4,79.10572,14.26492
+,HAQ,HASTAVARMU,,,Andhra Pradesh,Y.S.R. Kadapa,hastavarmu,other,0,0.288,0.712,False,200.7,79.1216,14.2184
+,RJP,RAZAMPETA,,,Andhra Pradesh,Y.S.R. Kadapa,razampeta,-pet(a),0,0.42,0.58,False,205.0,79.15274,14.18452
+,PMT,PULLAMPET,,,Andhra Pradesh,Y.S.R. Kadapa,pullampet,-pet(a),0,0.43,0.57,False,213.2,79.20561,14.12062
+,RPL,REDDIPALLE,,,Andhra Pradesh,Y.S.R. Kadapa,reddipalle,-palle,0,0.134,0.866,False,216.6,79.22553,14.09316
+,OBVP,OBULAVARIPALLI,,,Andhra Pradesh,Y.S.R. Kadapa,obulavaripalli,-palli,0,0.583,0.417,False,223.3,79.26822,14.04083
+,ANE,ANANTARAJUPET,,,Andhra Pradesh,Y.S.R. Kadapa,anantarajupet,-pet(a),0,0.416,0.584,False,228.6,79.30247,13.99959
+,KOU,KODURU,,,Andhra Pradesh,Y.S.R. Kadapa,koduru,other,0,0.288,0.712,False,235.3,79.34569,13.94858
+,SF,SETTIGUNTA,,,Andhra Pradesh,Y.S.R. Kadapa,settigunta,other,0,0.289,0.711,False,244.2,79.3823,13.87431
+,BLPE,BALAPALLE,,,Andhra Pradesh,Y.S.R. Kadapa,balapalle,-palle,0,0.134,0.866,False,250.9,79.40356,13.81715
+,MRM,MAMANDURU,,,Andhra Pradesh,Chittoor,mamanduru,other,0,0.291,0.709,False,260.1,79.45812,13.7459
+,PUDI,PUDI,,,Andhra Pradesh,Chittoor,pudi,-pudi,0,0.182,0.818,False,284.3,79.51031,13.53238
+,SVF,SRI VENKATAPERU,,,Andhra Pradesh,Chittoor,sri venkataperu,other,0,0.29,0.71,False,286.6,79.51432,13.5116
+,TDK,TADUKU,,,Andhra Pradesh,Chittoor,taduku,other,0,0.289,0.711,False,288.0,79.5265,13.50204
+,PUT,PUTTUR,,,Andhra Pradesh,Chittoor,puttur,-ur,0,0.298,0.702,False,295.4,79.55267,13.43964
+,VGA,VEPAGUNTA,,,Andhra Pradesh,Chittoor,vepagunta,other,0,0.29,0.71,False,300.3,79.55943,13.39501
+,EKM,EKAMBARAKUPPAM,,,Andhra Pradesh,Chittoor,ekambarakuppam,other,0,0.29,0.71,False,308.8,79.57313,13.3186
+,NG,NAGARI,,,Andhra Pradesh,Chittoor,nagari,other,0,0.29,0.71,False,310.2,79.57965,13.30788
+,MAG,MANGALAGIRI,,,Andhra Pradesh,Guntur,mangalagiri,other,0,0.29,0.71,False,36.0,80.56499,16.43826
+,NBR,NAMBURU,,,Andhra Pradesh,Guntur,namburu,other,0,0.288,0.712,False,45.4,80.49583,16.35872
+,PDKN,PEDAKAKANI HALT,,,Andhra Pradesh,Guntur,pedakakani,other,0,0.29,0.71,False,47.3,80.48615,16.34324
+,BDPL,BANDARUPALLE,,,Andhra Pradesh,Guntur,bandarupalle,-palle,0,0.132,0.868,False,49.1,80.3628,16.36553
+,MDPD,MANDAPADU,,,Andhra Pradesh,Guntur,mandapadu,-padu,0,0.095,0.905,False,47.1,80.32051,16.38865
+,SRPM,SIRIPURAM,,,Andhra Pradesh,Guntur,siripuram,-puram,0,0.191,0.809,False,43.3,80.29512,16.4126
+,LIN,LINGAMGUNTLA,,,Andhra Pradesh,Guntur,lingamguntla,other,0,0.289,0.711,False,39.7,80.27394,16.43971
+,PKPU,PEDDAKURAPADU,,,Andhra Pradesh,Guntur,peddakurapadu,-padu,0,0.094,0.906,False,36.6,80.25299,16.4593
+,GPDE,GUDIPUDI,,,Andhra Pradesh,Guntur,gudipudi,-pudi,0,0.168,0.832,False,34.8,80.2053,16.43395
+,SAP,SATTENAPALLE,,,Andhra Pradesh,Guntur,sattenapalle,-palle,0,0.133,0.867,False,33.2,80.1527,16.40502
+,DUP,DHULIPALLA HALT,,,Andhra Pradesh,Guntur,dhulipalla,other,0,0.289,0.711,False,27.4,80.08782,16.42448
+,REM,REDDIGUDEM,,,Andhra Pradesh,Guntur,reddigudem,other,0,0.29,0.71,False,23.7,80.05081,16.44233
+,BMKD,BELLAMKONDA,,,Andhra Pradesh,Guntur,bellamkonda,-konda,0,0.23,0.77,False,19.1,80.00631,16.46998
+,ANPM,ANUPALEM,,,Andhra Pradesh,Guntur,anupalem,-palem,0,0.185,0.815,False,18.2,79.96259,16.4699
+,STRM,SITARAMAPURAM,,,Andhra Pradesh,Guntur,sitaramapuram,-puram,0,0.192,0.808,False,17.8,79.9255,16.47476
+,PGRL,PIDUGURALLA,,,Andhra Pradesh,Guntur,piduguralla,other,0,0.29,0.71,False,18.9,79.87629,16.47779
+,KPH,KAMEPALLI,,,Andhra Pradesh,Guntur,kamepalli,-palli,0,0.587,0.413,False,18.8,79.83223,16.5053
+,TMLU,TUMMALACHERUVU,,,Andhra Pradesh,Guntur,tummalacheruvu,-cheruvu,0,0.127,0.873,False,19.1,79.80296,16.52765
+,NDKD,NADIKODE,,,Andhra Pradesh,Guntur,nadikode,other,0,0.289,0.711,False,12.1,79.72357,16.59063
+,PDGL,PONDUGULA,,,Andhra Pradesh,Guntur,pondugula,other,0,0.289,0.711,False,0.8,79.65905,16.67624
+,VJRD,VAJIRABAD,,,Telangana,Nalgonda,vajirabad,-abad,1,0.756,0.756,False,0.8,79.64519,16.68682
+,VNUP,VISHNUPURAM,,,Telangana,Nalgonda,vishnupuram,-puram,1,0.17,0.17,True,2.9,79.63879,16.70451
+,DMCA,DAMARACHERLA,,,Telangana,Nalgonda,damaracherla,-cherla,1,0.189,0.189,True,5.4,79.63082,16.72586
+,KDGL,KONDRAPOL,,,Telangana,Nalgonda,kondrapol,other,1,0.289,0.289,False,12.6,79.60108,16.7853
+,MRGA,MIRYALAGUDA,,,Telangana,Nalgonda,miryalaguda,-guda,1,0.74,0.74,False,23.0,79.5335,16.86039
+,TPPI,TIPPARTHI,,,Telangana,Nalgonda,tipparthi,other,1,0.288,0.288,False,42.3,79.4231,17.00654
+,NLDA,NALGONDA,,,Telangana,Nalgonda,nalgonda,other,1,0.289,0.289,False,51.3,79.28344,17.06118
+,SRMR,SRIRAMPURAM,,,Telangana,Nalgonda,srirampuram,-puram,1,0.167,0.167,True,59.8,79.2124,17.11726
+,NKPL,NARKETPALLI,,,Telangana,Nalgonda,narketpalli,-palli,1,0.574,0.574,False,69.4,79.17927,17.19928
+,CTYL,CHITYALA,,,Telangana,Nalgonda,chityala,other,1,0.289,0.289,False,72.9,79.13571,17.22196
+,RMNP,RAMANNAPET,,,Telangana,Yadadri Bhuvanagiri,ramannapet,-pet(a),1,0.402,0.402,False,80.4,79.08702,17.28234
+,VLG,VANIGONDA,,,Telangana,Yadadri Bhuvanagiri,vanigonda,other,1,0.288,0.288,False,91.4,79.0085,17.36666
+,MMPR,MAMDAPUR,,,Telangana,Yadadri Bhuvanagiri,mamdapur,-pur,1,0.587,0.587,False,94.0,78.97793,17.38257
+,NRDP,NAGIREDDIPALLI,,,Telangana,Yadadri Bhuvanagiri,nagireddipalli,-palli,1,0.573,0.573,False,99.4,78.93999,17.42226
+,BMMP,BOMMAYAPALLI,,,Telangana,Yadadri Bhuvanagiri,bommayapalli,-palli,1,0.56,0.56,False,108.7,78.86123,17.48445
+,KTCR,KOTHACHERUVU,,,Andhra Pradesh,Anantapur,kothacheruvu,-cheruvu,0,0.127,0.873,False,185.0,77.76013,14.18577
+,BSPL,BASAMPALLE,,,Andhra Pradesh,Anantapur,basampalle,-palle,0,0.134,0.866,False,171.7,77.74596,14.31124
+,SSPN,SATYA SAI P NILAYAM,,,Andhra Pradesh,Anantapur,satya sai p nilayam,other,0,0.289,0.711,False,187.8,77.75756,14.16047
+,NRYP,NARAYANAPURAM,,,Andhra Pradesh,Anantapur,narayanapuram,-puram,0,0.199,0.801,False,192.0,77.69605,14.12897
+,TAC,TATICHERLA,,,Andhra Pradesh,Anantapur,taticherla,-cherla,0,0.252,0.748,False,124.9,77.595,14.74835
+,LPI,LINGAMPALLI,,,Telangana,Sangareddy,lingampalli,-palli,1,0.577,0.577,False,140.8,78.31677,17.48287
+,KDT,KHADARPET,,,Andhra Pradesh,Anantapur,khadarpet,-pet(a),0,0.437,0.563,False,99.7,77.54277,14.98308
+,VPL,VENKATAMPALLE,,,Andhra Pradesh,Anantapur,venkatampalle,-palle,0,0.131,0.869,False,95.0,77.4416,15.04485
+,GPU,GULAPALYAMU,,,Andhra Pradesh,Anantapur,gulapalyamu,other,0,0.289,0.711,False,91.8,77.39921,15.08704
+,CDNR,CHANDANAGAR,,,Telangana,Ranga Reddy,chandanagar,-nagar,1,0.724,0.724,False,140.0,78.33358,17.4877
+,HFZ,HAFIZPETA,,,Telangana,Ranga Reddy,hafizpeta,-pet(a),1,0.394,0.394,False,137.5,78.36265,17.48228
+,HTCY,HITECH CITY,,,Telangana,Ranga Reddy,hitech,other,1,0.289,0.289,False,134.8,78.38486,17.4694
+,HNMN,HANUMAN STATION,,,Andhra Pradesh,Anantapur,hanuman station,other,0,0.29,0.71,False,85.9,77.37687,15.14952
+,LGD,LALLAGUDA,,,Telangana,Medchal Malkajgiri,lallaguda,-guda,1,0.74,0.74,False,122.8,78.52562,17.44146
+,MLY,MAULA ALI,,,Telangana,Medchal Malkajgiri,maula ali,other,1,0.288,0.288,False,121.1,78.55054,17.44041
+,BRBD,BORABANDA,,,Telangana,Medchal Malkajgiri,borabanda,other,1,0.289,0.289,False,132.4,78.40786,17.45923
+,BTNR,BHARTNAGAR,,,Telangana,Medchal Malkajgiri,bhartnagar,-nagar,1,0.726,0.726,False,131.1,78.42819,17.4614
+,FNB,FATEHNAGAR,,,Telangana,Medchal Malkajgiri,fatehnagar,-nagar,1,0.719,0.719,False,129.2,78.45026,17.4562
+,NCHS,NATURE CURE HOSPITAL,,,Telangana,Medchal Malkajgiri,nature cure hospital,other,1,0.289,0.289,False,128.1,78.45289,17.44586
+,BMT,BEGAMPET,,,Telangana,Hyderabad,begampet,-pet(a),1,0.396,0.396,False,127.2,78.45863,17.43887
+,SJVP,SANJEEVAIAH PARK,,,Telangana,Hyderabad,sanjeevaiah park,other,1,0.289,0.289,False,125.7,78.47569,17.43595
+,JET,JAMES STREET,,,Telangana,Hyderabad,james street,other,1,0.289,0.289,False,124.7,78.48691,17.43313
+,SC,SECUNDERABAD JN,,,Telangana,Hyderabad,secunderabad,-abad,1,0.755,0.755,False,123.8,78.50148,17.43315
+,CGTA,CHEGUNTA,,,Telangana,Narayanpet,chegunta,other,1,0.289,0.289,False,64.1,77.30225,16.48536
+,KSN,KRISHNA,,,Telangana,Narayanpet,krishna,other,1,0.287,0.287,False,55.3,77.32856,16.40932
+,MALM,MANTHRALAYAM RD,,,Andhra Pradesh,Kurnool,manthralayam,other,0,0.289,0.711,False,22.8,77.2992,15.94904
+,EGU,IRANAGALLU,,,Andhra Pradesh,Kurnool,iranagallu,other,0,0.288,0.712,False,26.8,77.26377,15.89181
+,KO,KOSGI,,,Andhra Pradesh,Kurnool,kosgi,other,0,0.29,0.71,False,30.7,77.23641,15.84787
+,KGL,KUPGAL,,,Andhra Pradesh,Kurnool,kupgal,other,0,0.289,0.711,False,38.3,77.21923,15.72626
+,ESV,ISIVI,,,Andhra Pradesh,Kurnool,isivi,other,0,0.29,0.71,False,42.3,77.22981,15.65781
+,AD,ADONI,,,Andhra Pradesh,Kurnool,adoni,other,0,0.287,0.713,False,42.5,77.27485,15.61704
+,NRR,NAGARUR,,,Andhra Pradesh,Kurnool,nagarur,-ur,0,0.289,0.711,False,47.3,77.31318,15.54234
+,ASP,ASPARI,,,Andhra Pradesh,Kurnool,aspari,other,0,0.29,0.71,False,54.5,77.35625,15.4548
+,MGV,MOLAGAVALLI,,,Andhra Pradesh,Kurnool,molagavalli,other,0,0.288,0.712,False,64.2,77.37182,15.35778
+,NMLU,NEMAKALLU,,,Andhra Pradesh,Kurnool,nemakallu,other,0,0.291,0.709,False,70.5,77.37278,15.29762
+,NLA,NANCHERLA,,,Andhra Pradesh,Kurnool,nancherla,-cherla,0,0.249,0.751,False,75.0,77.36883,15.25605
+,KLU,KALLURU,,,Andhra Pradesh,Anantapur,kalluru,other,0,0.288,0.712,False,105.7,77.58142,14.92447
+,GDE,GARLADINNE,,,Andhra Pradesh,Anantapur,garladinne,other,0,0.29,0.71,False,116.3,77.59215,14.82732
+,NAW,NAWANDGI,,,Telangana,Vikarabad,nawandgi,other,1,0.289,0.289,False,140.3,77.42791,17.2171
+,MVH,MANTATTI,,,Telangana,Vikarabad,mantatti,other,1,0.289,0.289,False,141.2,77.50948,17.22769
+,TDU,TANDUR,,,Telangana,Vikarabad,tandur,-ur,1,0.27,0.27,False,143.9,77.58504,17.25044
+,RMY,RUKMAPUR,,,Telangana,Vikarabad,rukmapur,-pur,1,0.569,0.569,False,147.2,77.67542,17.27365
+,DRR,DHARUR,,,Telangana,Vikarabad,dharur,-ur,1,0.257,0.257,False,149.3,77.75853,17.28952
+,MWY,MAILARAM,,,Telangana,Vikarabad,mailaram,other,1,0.288,0.288,False,146.2,77.80971,17.28041
+,GDQ,GODAMGURA,,,Telangana,Vikarabad,godamgura,other,1,0.29,0.29,False,144.8,77.86712,17.29025
+,VKB,VIKARABAD JN,,,Telangana,Vikarabad,vikarabad,-abad,1,0.754,0.754,False,147.8,77.90941,17.33713
+,CTF,CHITGIDDA,,,Telangana,Vikarabad,chitgidda,other,1,0.289,0.289,False,151.5,77.96391,17.39123
+,GGD,GULLAGUDA,,,Telangana,Vikarabad,gullaguda,-guda,1,0.736,0.736,False,152.1,78.03277,17.41696
+,RPK,RAVALPALLI KALA,,,Telangana,Ranga Reddy,ravalpalli kala,other,1,0.288,0.288,False,153.2,78.08416,17.43997
+,SKP,SHANKARPALLI,,,Telangana,Ranga Reddy,shankarpalli,-palli,1,0.574,0.574,False,153.0,78.13112,17.45082
+,NPL,NAGALAPALLE,,,Telangana,Sangareddy,nagalapalle,-palle,1,0.095,0.095,True,145.8,78.22997,17.46057
+,SNF,SANAT NAGAR,,,Telangana,Medchal Malkajgiri,sanat nagar,-nagar,1,0.712,0.712,False,130.6,78.43595,17.46161
+,STPD,SITAFAL MANDI,,,Telangana,Medchal Malkajgiri,sitafal mandi,other,1,0.289,0.289,False,122.1,78.52029,17.42834
+,ATC,ARTS COLLEGE,,,Telangana,Hyderabad,arts college,other,1,0.289,0.289,False,121.3,78.51966,17.41813
+,JOO,KACHEGUDA JAMIA OSMANIA,,,Telangana,Hyderabad,kacheguda jamia osmania,other,1,0.289,0.289,False,120.8,78.51778,17.41107
+,VAR,VIDYANAGAR,,,Telangana,Hyderabad,vidyanagar,-nagar,1,0.721,0.721,False,120.5,78.51166,17.40248
+,LGDH,LALAGUDA GATE,,,Telangana,Medchal Malkajgiri,lalaguda,-guda,1,0.739,0.739,False,122.8,78.5244,17.44036
+,MJF,MALKAJGIRI,,,Telangana,Medchal Malkajgiri,malkajgiri,other,1,0.289,0.289,False,123.2,78.52961,17.44839
+,ATP,ANANTAPUR,,,Andhra Pradesh,Anantapur,anantapur,-pur,0,0.637,0.363,False,131.7,77.59531,14.68648
+,PSPY,PRASANNAYA PALLI,,,Andhra Pradesh,Anantapur,prasannaya palli,-palli,0,0.588,0.412,False,137.7,77.60211,14.63118
+,ZPL,ZANGALAPALLE,,,Andhra Pradesh,Anantapur,zangalapalle,-palle,0,0.126,0.874,False,141.6,77.64085,14.59185
+,CCA,CHIGICHERLA,,,Andhra Pradesh,Anantapur,chigicherla,-cherla,0,0.247,0.753,False,149.4,77.68349,14.51747
+,DMM,DHARMAVARAM JN,,,Andhra Pradesh,Anantapur,dharmavaram,-varam,0,0.22,0.78,False,159.4,77.71712,14.42437
+,NGM,NAGASAMUDRAM,,,Andhra Pradesh,Anantapur,nagasamudram,other,0,0.288,0.712,False,171.3,77.64247,14.32166
+,MKJ,MAKKAJIPALLI,,,Andhra Pradesh,Anantapur,makkajipalli,-palli,0,0.587,0.413,False,185.1,77.62845,14.19612
+,PKD,PENUKONDA,,,Andhra Pradesh,Anantapur,penukonda,-konda,0,0.226,0.774,False,196.0,77.59252,14.09964
+,REPI,RANGEPALLI,,,Andhra Pradesh,Anantapur,rangepalli,-palli,0,0.594,0.406,False,205.1,77.57804,14.01783
+,CPL,CHAKARLAPALLI,,,Andhra Pradesh,Anantapur,chakarlapalli,-palli,0,0.588,0.412,False,207.3,77.58312,13.99779
+,MLU,MALUGUR,,,Andhra Pradesh,Anantapur,malugur,-ur,0,0.291,0.709,False,222.1,77.53159,13.86661
+,HUP,HINDUPUR,,,Andhra Pradesh,Anantapur,hindupur,-pur,0,0.625,0.375,False,227.6,77.50036,13.81914
+,DPE,DEVARAPALLE,,,Andhra Pradesh,Anantapur,devarapalle,-palle,0,0.129,0.871,False,238.0,77.51224,13.72381
+,CHZ,CHARLAPALLI,,,Telangana,Medchal Malkajgiri,charlapalli,-palli,1,0.576,0.576,False,119.2,78.60562,17.45767
+,GT,GHATKESAR,,,Telangana,Medchal Malkajgiri,ghatkesar,other,1,0.29,0.29,False,114.6,78.67822,17.45312
+,BN,BIBINAGAR,,,Telangana,Yadadri Bhuvanagiri,bibinagar,-nagar,1,0.72,0.72,False,110.3,78.79436,17.47051
+,PGDP,PAGIDIPALLI,,,Telangana,Yadadri Bhuvanagiri,pagidipalli,-palli,1,0.572,0.572,False,110.5,78.82089,17.48471
+,BG,BHONGIR,,,Telangana,Yadadri Bhuvanagiri,bhongir,other,1,0.288,0.288,False,111.4,78.89847,17.5247
+,RAG,RAIGIR,,,Telangana,Yadadri Bhuvanagiri,raigir,other,1,0.288,0.288,False,112.7,78.9412,17.55088
+,WP,WANGAPALLI,,,Telangana,Yadadri Bhuvanagiri,wangapalli,-palli,1,0.576,0.576,False,114.6,78.98366,17.58056
+,ALER,ALER,,,Telangana,Yadadri Bhuvanagiri,aler,other,1,0.288,0.288,False,119.8,79.04834,17.64596
+,PBP,PEMBARTI,,,Telangana,Jangaon,pembarti,other,1,0.288,0.288,False,122.3,79.11616,17.6923
+,ZN,JANGAON,,,Telangana,Jangaon,jangaon,other,1,0.287,0.287,False,124.7,79.15473,17.72512
+,YSPM,YASANTAPUR,,,Telangana,Jangaon,yasantapur,-pur,1,0.576,0.576,False,122.3,79.205,17.73674
+,RGP,RAGHUNATHPALLI,,,Telangana,Jangaon,raghunathpalli,-palli,1,0.572,0.572,False,120.0,79.2553,17.75648
+,IPG,IPPUGUDA,,,Telangana,Jangaon,ippuguda,-guda,1,0.733,0.733,False,118.6,79.32671,17.80131
+,GNP,GHANPUR,,,Telangana,Jangaon,ghanpur,-pur,1,0.567,0.567,False,119.6,79.3769,17.85063
+,NSKL,NASKHAL,,,Telangana,Warangal Urban,naskhal,other,1,0.288,0.288,False,120.9,79.42624,17.8981
+,BRGL,BURGULA HALT,,,Telangana,Ranga Reddy,burgula,other,1,0.29,0.29,False,102.8,78.20522,16.99351
+,HBLN,HBL NAGAR,,,Telangana,Ranga Reddy,hbl nagar,-nagar,1,0.717,0.717,False,116.8,78.27355,17.13402
+,KOTT,KOTTUR,,,Telangana,Ranga Reddy,kottur,-ur,1,0.265,0.265,False,118.3,78.28622,17.14974
+,NSVP,NPA SHIVARAMPALLI HALT,,,Telangana,Ranga Reddy,npa shivarampalli,-palli,1,0.576,0.576,False,119.7,78.4372,17.32371
+,YKA,YAKUTPURA KACHEGUDA,,,Telangana,Hyderabad,yakutpura kacheguda,-guda,1,0.741,0.741,False,118.4,78.49171,17.35955
+,MLYG,MLYG,,,Telangana,Medchal Malkajgiri,mlyg,other,1,0.288,0.288,False,123.5,78.53417,17.45535
+,OPL,UPPAL,,,Telangana,Warangal Urban,uppal,other,1,0.288,0.288,False,145.4,79.48098,18.18341
+,JMKT,JAMIKUNTA,,,Telangana,Karimnagar,jamikunta,other,1,0.289,0.289,False,156.2,79.47692,18.29002
+,BGSF,BISUGIRSHARIF,,,Telangana,Karimnagar,bisugirsharif,other,1,0.289,0.289,False,160.9,79.4836,18.34812
+,PTKP,POTKAPALLI,,,Telangana,Peddapalli,potkapalli,-palli,1,0.567,0.567,False,166.5,79.46445,18.42906
+,OEA,ODELA,,,Telangana,Peddapalli,odela,other,1,0.288,0.288,False,169.2,79.44974,18.45655
+,KOLR,KOLNUR,,,Telangana,Peddapalli,kolnur,-ur,1,0.267,0.267,False,174.0,79.41991,18.49632
+,KYOP,KOTTAPALLI,,,Telangana,Peddapalli,kottapalli,-palli,1,0.578,0.578,False,177.8,79.40386,18.54027
+,PDPL,PEDDAPALLI,,,Telangana,Peddapalli,peddapalli,-palli,1,0.57,0.57,False,182.9,79.39208,18.6138
+,RGPM,RAGHAVAPURAM,,,Telangana,Peddapalli,raghavapuram,-puram,1,0.167,0.167,True,185.1,79.41119,18.68124
+,RDM,RAMGUNDAM,,,Telangana,Peddapalli,ramgundam,other,1,0.288,0.288,False,188.2,79.4351,18.76333
+,PPZ,PEDDEMPET,,,Telangana,Peddapalli,peddempet,-pet(a),1,0.4,0.4,False,191.5,79.42682,18.80267
+,MCI,MANCHIRYAL,,,Telangana,Mancherial,manchiryal,other,1,0.287,0.287,False,194.8,79.44885,18.87875
+,RVKH,RAVINDRAKHANI,,,Telangana,Mancherial,ravindrakhani,other,1,0.289,0.289,False,197.9,79.4614,18.93659
+,MMZ,MANDAMARI,,,Telangana,Mancherial,mandamari,other,1,0.288,0.288,False,199.7,79.47015,18.97127
+,BPA,BELAMPALLI,,,Telangana,Mancherial,belampalli,-palli,1,0.566,0.566,False,204.7,79.48634,19.05369
+,RECH,RECHNI ROAD,,,Telangana,Mancherial,rechni,other,1,0.288,0.288,False,213.9,79.45189,19.14054
+,RLW,REPALLIWADA,,,Telangana,Komaram Bheem,repalliwada,-vada/wada,1,0.143,0.143,True,220.2,79.43014,19.20195
+,ASAF,ASIFABAD ROAD,,,Telangana,Komaram Bheem,asifabad,-abad,1,0.752,0.752,False,225.5,79.41672,19.25668
+,RLT,RALAPET,,,Telangana,Komaram Bheem,ralapet,-pet(a),1,0.402,0.402,False,229.4,79.43779,19.32291
+,SKZR,SIRPUR KAGAZNAGAR,,,Telangana,Komaram Bheem,sirpur kagaznagar,-nagar,1,0.721,0.721,False,227.8,79.4892,19.34566
+,VEM,VEMPALLI,,,Telangana,Komaram Bheem,vempalli,-palli,1,0.577,0.577,False,230.7,79.53458,19.41439
+,SRUR,SIRPUR TOWN,,,Telangana,Komaram Bheem,sirpur,-pur,1,0.573,0.573,False,234.7,79.56042,19.47906
+,PQL,PINDLAI,,,Telangana,Warangal Urban,pindlai,other,1,0.288,0.288,False,121.8,79.45471,17.92519
+,BSM,BISANATTAM,,,Andhra Pradesh,Chittoor,bisanattam,other,0,0.288,0.712,False,330.4,78.25032,12.84263
+,GDP,GUDUPULLI,,,Andhra Pradesh,Chittoor,gudupulli,other,0,0.288,0.712,False,334.8,78.27491,12.80367
+,KPN,KUPPAM,,,Andhra Pradesh,Chittoor,kuppam,other,0,0.29,0.71,False,341.6,78.33955,12.74683
+,MAR,MULANUR,,,Andhra Pradesh,Chittoor,mulanur,-ur,0,0.296,0.704,False,351.6,78.40639,12.66148
+,BUM,BOMMASAMUDRAM,,,Andhra Pradesh,Chittoor,bommasamudram,other,0,0.289,0.711,False,327.4,79.17607,13.04457
+,RAM,RAMAPURAM,,,Andhra Pradesh,Chittoor,ramapuram,-puram,0,0.194,0.806,False,322.0,79.17879,13.09801
+,PYX,PEYANAPALLI,,,Andhra Pradesh,Chittoor,peyanapalli,-palli,0,0.582,0.418,False,317.0,79.13828,13.13164
+,SIE,SIDDAMPALLI,,,Andhra Pradesh,Chittoor,siddampalli,-palli,0,0.601,0.399,False,314.0,79.13714,13.16064
+,CTO,CHITTOOR,,,Andhra Pradesh,Chittoor,chittoor,other,0,0.289,0.711,False,306.6,79.10325,13.21986
+,RVSN,RVS NAGAR,,,Andhra Pradesh,Chittoor,rvs nagar,-nagar,0,0.762,0.238,True,301.0,79.11626,13.2783
+,PTT,PUTALAPATTU,,,Andhra Pradesh,Chittoor,putalapattu,other,0,0.29,0.71,False,290.4,79.09873,13.37342
+,PAK,PAKALA JN,,,Andhra Pradesh,Chittoor,pakala,other,0,0.288,0.712,False,283.0,79.11408,13.45113
+,PAM,PANAPAKAM,,,Andhra Pradesh,Chittoor,panapakam,other,0,0.29,0.71,False,278.8,79.21082,13.51324
+,MNPT,MUNGILIPATTU,,,Andhra Pradesh,Chittoor,mungilipattu,other,0,0.29,0.71,False,274.7,79.2411,13.55655
+,KEN,KOTALA,,,Andhra Pradesh,Chittoor,kotala,other,0,0.289,0.711,False,270.4,79.28725,13.60632
+,CGI,CHANDRAGIRI,,,Andhra Pradesh,Chittoor,chandragiri,other,0,0.29,0.71,False,270.4,79.31222,13.61173
+,TPW,TIRUPATI WEST HALT,,,Andhra Pradesh,Chittoor,tirupati,other,0,0.288,0.712,False,271.4,79.40462,13.62453
+,TPTY,TIRUPATI MAIN,,,Andhra Pradesh,Chittoor,tirupati main,other,0,0.29,0.71,False,271.5,79.41897,13.62763
+,TCNR,TIRUCHANUR,,,Andhra Pradesh,Chittoor,tiruchanur,-ur,0,0.293,0.707,False,272.2,79.4557,13.6313
+,RU,RENIGUNTA JN,,,Andhra Pradesh,Chittoor,renigunta,other,0,0.289,0.711,False,273.2,79.50629,13.63626
+,YPD,YERPEDU,,,Andhra Pradesh,Chittoor,yerpedu,other,0,0.288,0.712,False,270.1,79.57851,13.68911
+,RCG,RACHAGUNNARI,,,Andhra Pradesh,Chittoor,rachagunnari,other,0,0.29,0.71,False,269.3,79.62985,13.71463
+,KHT,SRI KALAHASTI,,,Andhra Pradesh,Chittoor,sri kalahasti,other,0,0.29,0.71,False,268.1,79.68304,13.74636
+,AKY,AKKURTI,,,Andhra Pradesh,Chittoor,akkurti,other,0,0.29,0.71,False,263.8,79.66864,13.7829
+,YLK,YELLAKARU,,,Andhra Pradesh,S.P.S. Nellore,yellakaru,other,0,0.29,0.71,False,256.6,79.65057,13.84646
+,YAL,YATALURU,,,Andhra Pradesh,S.P.S. Nellore,yataluru,other,0,0.289,0.711,False,250.8,79.62624,13.89349
+,VKI,VENKATAGIRI,,,Andhra Pradesh,S.P.S. Nellore,venkatagiri,other,0,0.288,0.712,False,244.8,79.60399,13.94386
+,NDZ,NIDIGALLU,,,Andhra Pradesh,S.P.S. Nellore,nidigallu,other,0,0.291,0.709,False,242.6,79.66059,13.98831
+,VDD,VENDODU,,,Andhra Pradesh,S.P.S. Nellore,vendodu,other,0,0.289,0.711,False,241.8,79.7284,14.02695
+,KQA,KONDAGUNTA,,,Andhra Pradesh,S.P.S. Nellore,kondagunta,other,0,0.29,0.71,False,239.8,79.79392,14.08003
+,KMX,KOMATIPALLI,,,Andhra Pradesh,Vizianagaram,komatipalli,-palli,0,0.59,0.41,False,237.2,83.34105,18.38103
+,MQJ,MARADAM HALT,,,Andhra Pradesh,Vizianagaram,maradam,other,0,0.289,0.711,False,238.7,83.34634,18.4008
+,MOD,MORAMPUDI,,,Andhra Pradesh,Guntur,morampudi,-pudi,0,0.169,0.831,False,45.7,80.62021,16.35312
+,GPI,GAJAPATINAGARAM,,,Andhra Pradesh,Vizianagaram,gajapatinagaram,other,0,0.288,0.712,False,232.5,83.3339,18.29329
+,GRBL,GARUDUBILLI,,,Andhra Pradesh,Vizianagaram,garudubilli,other,0,0.29,0.71,False,230.7,83.35049,18.21449
+,GTLM,GOTLAM,,,Andhra Pradesh,Vizianagaram,gotlam,other,0,0.29,0.71,False,231.2,83.39573,18.11132
+,GMDA,GUMADA,,,Andhra Pradesh,Vizianagaram,gumada,other,0,0.291,0.709,False,274.3,83.45756,18.88918
+,PVPT,PARVATIPURAM TN,,,Andhra Pradesh,Vizianagaram,parvatipuram tn,other,0,0.289,0.711,False,267.3,83.4337,18.78387
+,PVP,PARVATIPURAM,,,Andhra Pradesh,Vizianagaram,parvatipuram,-puram,0,0.193,0.807,False,266.1,83.42697,18.77067
+,NSX,NARSIPURAM HALT,,,Andhra Pradesh,Vizianagaram,narsipuram,-puram,0,0.182,0.818,False,262.4,83.40628,18.73761
+,SNM,SITANAGARAM,,,Andhra Pradesh,Vizianagaram,sitanagaram,other,0,0.289,0.711,False,255.9,83.37552,18.67255
+,VBL,BOBBILI,,,Andhra Pradesh,Vizianagaram,bobbili,other,0,0.29,0.71,False,247.8,83.34572,18.57676
+,DNV,DONKINAVALASA,,,Andhra Pradesh,Vizianagaram,donkinavalasa,other,0,0.29,0.71,False,242.5,83.35094,18.46876
+,DKUR,DOKUR,,,Telangana,Mahabubnagar,dokur,-ur,1,0.258,0.258,False,75.3,77.85341,16.59258
+,RJAP,RAJAPUR,,,Telangana,Mahabubnagar,rajapur,-pur,1,0.586,0.586,False,89.7,78.16365,16.8596
+,NLPD,NALLAPADU,,,Andhra Pradesh,Guntur,nallapadu,-padu,0,0.095,0.905,False,53.4,80.39776,16.30826
+,PRCA,PERECHERLA,,,Andhra Pradesh,Guntur,perecherla,-cherla,0,0.25,0.75,False,53.7,80.33952,16.3196
+,PPM,PHIRANGIPURAM,,,Andhra Pradesh,Guntur,phirangipuram,-puram,0,0.194,0.806,False,49.6,80.25589,16.29238
+,NDPU,NUDURUPADU,,,Andhra Pradesh,Guntur,nudurupadu,-padu,0,0.096,0.904,False,47.3,80.19338,16.27341
+,STUR,SATULUR,,,Andhra Pradesh,Guntur,satulur,-ur,0,0.295,0.705,False,46.3,80.13881,16.25446
+,NRT,NARASARAOPET,,,Andhra Pradesh,Guntur,narasaraopet,-pet(a),0,0.419,0.581,False,45.3,80.04161,16.23153
+,MUK,MUNUMAKA,,,Andhra Pradesh,Guntur,munumaka,other,0,0.288,0.712,False,48.8,79.98132,16.19092
+,SAB,SANTAMAGULUR,,,Andhra Pradesh,Prakasam,santamagulur,-ur,0,0.289,0.711,False,53.6,79.91506,16.14707
+,SYM,SAVALYAPURAM,,,Andhra Pradesh,Guntur,savalyapuram,-puram,0,0.186,0.814,False,59.9,79.81953,16.1028
+,VKN,VINUKONDA,,,Andhra Pradesh,Guntur,vinukonda,-konda,0,0.237,0.763,False,59.6,79.748,16.05075
+,CEM,CHEEKATEEGALPLM,,,Andhra Pradesh,Guntur,cheekateegalplm,other,0,0.289,0.711,False,54.8,79.68284,16.0117
+,GKM,GUNDALUKAMMA,,,Andhra Pradesh,Guntur,gundalukamma,other,0,0.289,0.711,False,52.6,79.64536,15.98591
+,KCD,KURICHEDU,,,Andhra Pradesh,Prakasam,kurichedu,other,0,0.289,0.711,False,51.0,79.57218,15.91339
+,POO,POTLAPADU,,,Andhra Pradesh,Prakasam,potlapadu,-padu,0,0.094,0.906,False,50.6,79.52386,15.87334
+,DKD,DONAKONDA,,,Andhra Pradesh,Prakasam,donakonda,-konda,0,0.24,0.76,False,51.5,79.48411,15.83463
+,GJJ,GAJJELAKONDA,,,Andhra Pradesh,Prakasam,gajjelakonda,-konda,0,0.229,0.771,False,53.0,79.4013,15.77738
+,MRK,MARKAPUR ROAD,,,Andhra Pradesh,Prakasam,markapur,-pur,0,0.636,0.364,False,56.3,79.30112,15.71468
+,BMH,BETAMCHERLA,,,Andhra Pradesh,Kurnool,betamcherla,-cherla,0,0.242,0.758,False,43.5,78.14864,15.44937
+,KXI,KURUMURTHI,,,Telangana,Mahabubnagar,kurumurthi,other,1,0.289,0.289,False,64.6,77.86346,16.49492
+,TLU,TARLUPADU,,,Andhra Pradesh,Prakasam,tarlupadu,-padu,0,0.095,0.905,False,59.6,79.21946,15.66054
+,CBM,CUMBUM,,,Andhra Pradesh,Prakasam,cumbum,other,0,0.29,0.71,False,59.6,79.11083,15.59295
+,KRNT,KURNOOL TOWN,,,Andhra Pradesh,Kurnool,kurnool,other,0,0.29,0.71,False,2.5,78.03266,15.83372
+,ALPR,ALAMPUR ROAD,,,Telangana,Jogulamba Gadwal,alampur,-pur,1,0.573,0.573,False,4.4,78.04701,15.89566
+,SBBJ,JOGULAMBA HALT,,,Telangana,Jogulamba Gadwal,jogulamba,other,1,0.289,0.289,False,6.3,78.0416,15.91569
+,MOA,MANOPAD,,,Telangana,Jogulamba Gadwal,manopad,other,1,0.288,0.288,False,11.0,77.94197,15.99411
+,IKI,ITKYALA,,,Telangana,Jogulamba Gadwal,itkyala,other,1,0.288,0.288,False,18.9,77.85253,16.07459
+,PDNA,PEDDADINNE,,,Telangana,Jogulamba Gadwal,peddadinne,other,1,0.29,0.29,False,22.0,77.83502,16.10008
+,PDO,PUDURU,,,Telangana,Jogulamba Gadwal,puduru,other,1,0.287,0.287,False,28.1,77.82093,16.1539
+,GWD,GADWAL,,,Telangana,Jogulamba Gadwal,gadwal,other,1,0.287,0.287,False,35.9,77.80967,16.22509
+,ARPL,AREPALLI HALT,,,Telangana,Wanaparthy,arepalli,-palli,1,0.579,0.579,False,40.0,77.86237,16.27053
+,SRNR,SRIRAMNAGAR,,,Telangana,Wanaparthy,sriramnagar,-nagar,1,0.72,0.72,False,44.0,77.86589,16.30657
+,AJK,AJAKOLLU,,,Telangana,Wanaparthy,ajakollu,other,1,0.288,0.288,False,48.3,77.87364,16.34678
+,WPR,WANPARTI ROAD,,,Telangana,Wanaparthy,wanparti,other,1,0.288,0.288,False,52.2,77.88515,16.38205
+,KONN,KONNUR,,,Telangana,Wanaparthy,konnur,-ur,1,0.261,0.261,False,56.8,77.8844,16.42462
+,KQQ,KAUKUNTLA,,,Telangana,Mahabubnagar,kaukuntla,other,1,0.289,0.289,False,69.4,77.85045,16.53896
+,DKC,DEVARKADRE,,,Telangana,Mahabubnagar,devarkadre,other,1,0.289,0.289,False,79.5,77.83826,16.6305
+,KTKA,KOTAKADRA,,,Telangana,Mahabubnagar,kotakadra,other,1,0.288,0.288,False,83.0,77.86948,16.66874
+,MQN,MANYAMKONDA,,,Telangana,Mahabubnagar,manyamkonda,-konda,1,0.169,0.169,True,82.6,77.90488,16.68342
+,MHBT,MAHBUBNAGAR TOWN HALT,,,Telangana,Mahabubnagar,mahbubnagar,-nagar,1,0.719,0.719,False,85.1,77.98265,16.74288
+,YNG,YENUGONDA,,,Telangana,Mahabubnagar,yenugonda,other,1,0.288,0.288,False,84.4,78.03634,16.75807
+,JBK,JAGGAMBOTLA KRISHNAPURAM,,,Andhra Pradesh,Prakasam,jaggambotla krishnapuram,-puram,0,0.195,0.805,False,61.2,79.07107,15.55116
+,SDV,SOMIDEVIPALLE,,,Andhra Pradesh,Prakasam,somidevipalle,-palle,0,0.136,0.864,False,68.6,79.03811,15.4534
+,GMA,GUDIMETTA,,,Andhra Pradesh,Prakasam,gudimetta,other,0,0.288,0.712,False,70.2,79.01048,15.42445
+,GID,GIDDALUR,,,Andhra Pradesh,Prakasam,giddalur,-ur,0,0.285,0.715,False,71.8,78.92558,15.37901
+,KSTE,KISTAMSETTIPALI,,,Andhra Pradesh,Prakasam,kistamsettipali,other,0,0.291,0.709,False,71.4,78.88384,15.37238
+,DMT,DIGUVAMETTA,,,Andhra Pradesh,Prakasam,diguvametta,other,0,0.29,0.71,False,67.9,78.82621,15.39493
+,CMZ,CHALAMA,,,Andhra Pradesh,Kurnool,chalama,other,0,0.287,0.713,False,64.4,78.69531,15.42264
+,GZL,GAZULAPALLI,,,Andhra Pradesh,Kurnool,gazulapalli,-palli,0,0.597,0.403,False,65.0,78.60013,15.43085
+,NDL,NANDYAL,,,Andhra Pradesh,Kurnool,nandyal,other,0,0.289,0.711,False,53.1,78.47254,15.46802
+,PNM,PANYAM,,,Andhra Pradesh,Kurnool,panyam,other,0,0.289,0.711,False,42.8,78.33916,15.50076
+,KEF,KRISHNAMA KONA,,,Andhra Pradesh,Kurnool,krishnama kona,other,0,0.288,0.712,False,39.9,78.26791,15.50522
+,BEY,B CEMENT NAGAR,,,Andhra Pradesh,Kurnool,b cement nagar,-nagar,0,0.756,0.244,True,40.4,78.19541,15.48632
+,RGM,RANGAPURAM,,,Andhra Pradesh,Kurnool,rangapuram,-puram,0,0.196,0.804,False,47.7,78.05915,15.40678
+,MLK,MALKAPURAM,,,Andhra Pradesh,Kurnool,malkapuram,-puram,0,0.19,0.81,False,53.2,77.96756,15.36894
+,BVO,BOGOLU,,,Andhra Pradesh,Kurnool,bogolu,other,0,0.29,0.71,False,43.9,77.9143,15.47339
+,DHNE,DHONE,,,Andhra Pradesh,Kurnool,dhone,other,0,0.289,0.711,False,52.8,77.86573,15.39673
+,VDI,VELDURTI,,,Andhra Pradesh,Kurnool,veldurti,other,0,0.29,0.71,False,35.2,77.92762,15.5537
+,UKD,ULINDAKONDA,,,Andhra Pradesh,Kurnool,ulindakonda,-konda,0,0.232,0.768,False,23.4,77.96869,15.65293
+,DUU,DUPADU,,,Andhra Pradesh,Kurnool,dupadu,-padu,0,0.094,0.906,False,12.6,78.01326,15.74289
+,KOLA,KOTLA,,,Andhra Pradesh,Kurnool,kotla,other,0,0.288,0.712,False,4.6,78.03755,15.81203
+,DTP,DIVITI PALLI,,,Telangana,Mahabubnagar,diviti palli,-palli,1,0.565,0.565,False,80.6,78.08417,16.74088
+,JCL,JADCHERLA,,,Telangana,Mahabubnagar,jadcherla,-cherla,1,0.195,0.195,True,79.4,78.14197,16.75266
+,GLY,GOLLAPALLY,,,Telangana,Mahabubnagar,gollapally,-palli,1,0.574,0.574,False,85.7,78.15728,16.8189
+,RRGA,RANGAREDDY GUDA,,,Telangana,Mahabubnagar,rangareddy guda,-guda,1,0.744,0.744,False,93.7,78.18083,16.90194
+,BABR,BALANAGAR,,,Telangana,Mahabubnagar,balanagar,-nagar,1,0.722,0.722,False,98.3,78.18889,16.94762
+,ULM,URLAM,,,Andhra Pradesh,Srikakulam,urlam,other,0,0.291,0.709,False,301.5,83.98952,18.43557
+,TIU,TILARU,,,Andhra Pradesh,Srikakulam,tilaru,other,0,0.288,0.712,False,310.9,84.07268,18.47049
+,HCM,HARISHCHANDRAPURAM,,,Andhra Pradesh,Srikakulam,harishchandrapuram,-puram,0,0.196,0.804,False,316.0,84.12144,18.47909
+,KBM,KOTABOMMALI,,,Andhra Pradesh,Srikakulam,kotabommali,other,0,0.288,0.712,False,324.0,84.19984,18.48835
+,DGB,DINDU GOPALA PURAM HALT,,,Andhra Pradesh,Srikakulam,dindu gopala puram,-puram,0,0.19,0.81,False,330.2,84.24177,18.54298
+,NWP,NAUPADA JN,,,Andhra Pradesh,Srikakulam,naupada,other,0,0.289,0.711,False,335.6,84.28292,18.57941
+,RMZ,ROUTHPURAM HALT,,,Andhra Pradesh,Srikakulam,routhpuram,-puram,0,0.184,0.816,False,342.4,84.33568,18.62096
+,PUN,PUNDI,,,Andhra Pradesh,Srikakulam,pundi,other,0,0.289,0.711,False,347.6,84.37068,18.66592
+,PSA,PALASA,,,Andhra Pradesh,Srikakulam,palasa,other,0,0.29,0.71,False,356.4,84.42209,18.75678
+,SUDV,SUMMADEVI,,,Andhra Pradesh,Srikakulam,summadevi,other,0,0.291,0.709,False,363.0,84.46726,18.8089
+,MMS,MANDASA ROAD,,,Andhra Pradesh,Srikakulam,mandasa,other,0,0.288,0.712,False,367.0,84.49411,18.84063
+,BAV,BARUVA,,,Andhra Pradesh,Srikakulam,baruva,other,0,0.288,0.712,False,375.4,84.55423,18.90075
+,SPT,SOMPETA,,,Andhra Pradesh,Srikakulam,sompeta,-pet(a),0,0.427,0.573,False,381.7,84.5815,18.9813
+,JPI,JHADUPUDI,,,Andhra Pradesh,Srikakulam,jhadupudi,-pudi,0,0.172,0.828,False,386.9,84.61303,19.0282
+,VSKP,VISHAKAPATNAM,,,Andhra Pradesh,Visakhapatnam,vishakapatnam,other,0,0.29,0.71,False,210.1,83.28951,17.72159
+,MIPM,MARRIPALEM,,,Andhra Pradesh,Visakhapatnam,marripalem,-palem,0,0.182,0.818,False,206.6,83.25263,17.7363
+,SCM,SIMHACHALAM,,,Andhra Pradesh,Visakhapatnam,simhachalam,other,0,0.288,0.712,False,203.4,83.22045,17.74467
+,PDT,PENDURTI,,,Andhra Pradesh,Visakhapatnam,pendurti,other,0,0.289,0.711,False,202.3,83.19521,17.8135
+,KTV,KOTTAVALASA,,,Andhra Pradesh,Vizianagaram,kottavalasa,other,0,0.29,0.71,False,203.3,83.1851,17.89237
+,KPL,KANTAKAPALLE,,,Andhra Pradesh,Vizianagaram,kantakapalle,-palle,0,0.13,0.87,False,207.4,83.2082,17.95472
+,ALM,ALAMANDA,,,Andhra Pradesh,Vizianagaram,alamanda,other,0,0.29,0.71,False,215.6,83.2716,18.01251
+,KUK,KORUKONDA,,,Andhra Pradesh,Vizianagaram,korukonda,-konda,0,0.233,0.767,False,221.8,83.3203,18.0542
+,VZM,VIZIANAGRAM JN,,,Andhra Pradesh,Vizianagaram,vizianagram,other,0,0.291,0.709,False,231.2,83.39559,18.11137
+,NML,NELLIMARIA,,,Andhra Pradesh,Vizianagaram,nellimaria,other,0,0.289,0.711,False,239.8,83.45605,18.18313
+,GUL,GUJJANGIVALASA,,,Andhra Pradesh,Vizianagaram,gujjangivalasa,other,0,0.289,0.711,False,246.9,83.51089,18.23068
+,GVI,GARIVIDI,,,Andhra Pradesh,Vizianagaram,garividi,other,0,0.291,0.709,False,250.6,83.53084,18.27327
+,CPP,CHIPURUPALLE,,,Andhra Pradesh,Vizianagaram,chipurupalle,-palle,0,0.128,0.872,False,256.1,83.56961,18.31626
+,BTVA,BATUVA,,,Andhra Pradesh,Srikakulam,batuva,other,0,0.288,0.712,False,262.4,83.6241,18.34309
+,SGDM,SIGADAM,,,Andhra Pradesh,Srikakulam,sigadam,other,0,0.291,0.709,False,268.7,83.68144,18.3606
+,PDU,PONDURU,,,Andhra Pradesh,Srikakulam,ponduru,other,0,0.29,0.71,False,278.0,83.77655,18.36288
+,DUSI,DUSI,,,Andhra Pradesh,Srikakulam,dusi,other,0,0.289,0.711,False,286.1,83.85768,18.36997
+,CHE,SRIKAKULAM ROAD,,,Andhra Pradesh,Srikakulam,srikakulam,other,0,0.29,0.71,False,292.1,83.90377,18.40868
+,SHNR,SHADNAGAR,,,Telangana,Ranga Reddy,shadnagar,-nagar,1,0.726,0.726,False,110.3,78.21327,17.06465
+,KCG,KACHEGUDA,,,Telangana,Hyderabad,kacheguda,-guda,1,0.735,0.735,False,120.3,78.49976,17.38956
+,MXT,MALAKPET KACHEGUDA,,,Telangana,Hyderabad,malakpet kacheguda,-guda,1,0.743,0.743,False,119.5,78.49424,17.3754
+,DQR,KACHEGUDA DBR,,,Telangana,Hyderabad,kacheguda dbr,other,1,0.288,0.288,False,119.0,78.49028,17.36608
+,HPG,HUPPUGUDA,,,Telangana,Ranga Reddy,huppuguda,-guda,1,0.744,0.744,False,117.6,78.48196,17.34071
+,FM,KACHEGUDA FALAKNUMA,,,Telangana,Ranga Reddy,kacheguda falaknuma,other,1,0.288,0.288,False,117.5,78.47448,17.3322
+,TMX,TIMMAPUR,,,Telangana,Ranga Reddy,timmapur,-pur,1,0.574,0.574,False,120.4,78.28834,17.16935
+,UR,UMDANAGAR,,,Telangana,Ranga Reddy,umdanagar,-nagar,1,0.726,0.726,False,118.7,78.39314,17.26293
+,BDVL,BUDVEL,,,Telangana,Ranga Reddy,budvel,other,1,0.289,0.289,False,119.6,78.42452,17.30938
